@@ -1,0 +1,2475 @@
+<resources>
+    <string name="app_name">LTOREVIWEEREXAM</string>
+    <string name="reviewer">Reviewer</string>
+    <string name="exam">Exam</string>
+    <string name="studentdesc">The student’s permit is the permit that a future driver would be required to get if they plan on applying for the non-professional or the professional license.</string>
+    <string name="nonprodesc">In this table, we will be giving you the updated list of the LTO fees for the different types of licenses which are non-professional license, professional license, and the conductor.</string>
+
+    <!--student permit-->
+    <string name="col1student">New Student’s Permit</string>
+    <string name="col2student">Applcation Fee</string>
+    <string name="col3student">₱100</string>
+    <string name="col4student">Computer Fee</string>
+    <string name="col5student">₱67.63</string>
+    <string name="col6student">Student Permit Fee</string>
+    <string name="col7student">₱150</string>
+    <string name="col8student">TOTAL</string>
+    <string name="col9student">₱317.63</string>
+    <string name="col10student">TDC</string>
+    <string name="col11student">₱2500-3000 </string>
+
+
+    <!--Nonpro and pro permit-->
+    <string name="col1nonpro">New License Application</string>
+    <string name="col2nonpro">Non-pro License</string>
+    <string name="col3nonpro">Professional License</string>
+    <string name="col4nonpro">Conductor License</string>
+    <string name="col5nonpro">Applcation Fee</string>
+    <string name="col6nonpro">₱100.00</string>
+    <string name="col7nonpro">₱100.00</string>
+    <string name="col8nonpro">₱100.00</string>
+    <string name="col9nonpro">Computer Fee</string>
+    <string name="col10nonpro">₱67.63</string>
+    <string name="col11nonpro">₱67.63</string>
+    <string name="col12nonpro">₱67.63</string>
+    <string name="col13nonpro">License Fee</string>
+    <string name="col14nonpro">₱585.00</string>
+    <string name="col15nonpro">₱585.00</string>
+    <string name="col16nonpro">₱585.00</string>
+    <string name="col17nonpro">TOTAL</string>
+    <string name="col18nonpro">₱820.26</string>
+    <string name="col19nonpro">₱820.26</string>
+    <string name="col20nonpro">₱820.26</string>
+
+
+    <!--nonpro price-->
+    <string name="col1fee">Pro and Non Pro Fee 2021</string>
+    <string name="col2fee">TDC</string>
+    <string name="col3fee">₱2300</string>
+    <string name="col4fee">SP</string>
+    <string name="col5fee">₱1,000</string>
+    <string name="col6fee">PDC </string>
+    <string name="col7fee">₱2,400</string>
+
+    <!--lto violation -->
+    <string name="col1violation">No Helmet</string>
+    <string name="col2violation">₱1,500</string>
+    <string name="col3violation">Driving without Drivers License</string>
+    <string name="col4violation">₱3,000</string>
+    <string name="col5violation">Illegal parking</string>
+    <string name="col6violation">₱1,000</string>
+    <string name="col7violation">Disregarding Traffic Signs</string>
+    <string name="col8violation">₱2,000</string>
+    <string name="col9violation">Driving under the influence</string>
+    <string name="col10violation">₱10,000</string>
+    <string name="col11violation">Minor Driving Motorcycle</string>
+    <string name="col12violation">₱3,000</string>
+    <string name="col13violation">No O.R/C.R</string>
+    <string name="col14violation">₱1,000</string>
+    <string name="col15violation">No Plate Number</string>
+    <string name="col16violation">₱5,000</string>
+    <string name="col17violation">Dirty Plate Number</string>
+    <string name="col18violation">₱5,000</string>
+    <string name="col19violation">Not Firmly Attached Plate Number</string>
+    <string name="col20violation">₱5,000</string>
+    <string name="col21violation">No. Muffler</string>
+    <string name="col22violation">₱5,000</string>
+    <string name="col23violation">Improvised Muffler</string>
+    <string name="col24violation">₱5,000</string>
+    <string name="col25violation">No Signal Lights</string>
+    <string name="col26violation">₱5,000</string>
+    <string name="col27violation">No Tail Lights</string>
+    <string name="col28violation">₱5,000</string>
+    <string name="col29violation">No Break Lights</string>
+    <string name="col30violation">₱5,000</string>
+    <string name="col31violation">No Head Lights</string>
+    <string name="col32violation">₱5,000</string>
+    <string name="col33violation">Defective Breaks</string>
+    <string name="col34violation">₱5,000</string>
+    <string name="col35violation">No Side Mirror</string>
+    <string name="col36violation">₱5,000</string>
+    <string name="col39violation">No Horn</string>
+    <string name="col40violation">₱5,000</string>
+    <string name="col41violation">Violation</string>
+    <string name="col42violation">Penalties</string>
+
+
+    <!-- Nonpro question and exam -->
+    <string name="queston_number">1/60 Question</string>
+    <string name="Score">Score 0/60</string>
+
+
+    <string name="question_1">A double solid yellow line with broken white line in between mean</string>
+
+    <string name="question1_A">Absolutely no overtaking</string>
+    <string name="question1_B">You can go overtake</string>
+    <string name="question1_C">Overtake by passing over the solid white line</string>
+    <string name="question1_D">Slow down gradually and give him the signal to overtake you</string>
+    <string name="answer_1">Absolutely no overtaking </string>
+
+    <string name="question_2">When you intend to turn right or left. Signal your intention at least</string>
+
+    <string name="question2_A">Caution or warning sign</string>
+    <string name="question2_B">Don\'t bother giving a signal</string>
+    <string name="question2_C">Give a signal while no less than 30 meters before turning</string>
+    <string name="question2_D">25 meters before you intend to make your turn </string>
+    <string name="answer_2">25 meters before you intend to make your turn </string>
+
+    <string name="question_3">At an intersection with a traffic light, make a left turn only when</string>
+
+    <string name="question3_A">The green light is on and there is a left turn light</string>
+    <string name="question3_B">The red light is on and there is a left turn light</string>
+    <string name="question3_C">The yellow light is on and there is a left turn light</string>
+    <string name="question3_D">Non of the above</string>
+    <string name="answer_3">The green light is on and there is a left turn light</string>
+
+
+    <string name="question_4">Graft and corruption in the traffic enforcement system can be eliminated by</string>
+
+    <string name="question4_A">It separates traffic moving in opposite direction</string>
+    <string name="question4_B">understanding the road and traffic rules and regulations</string>
+    <string name="question4_C">self discipline by drivers and obeying traffic rules and regulations</string>
+    <string name="question4_D">Non of the above</string>
+    <string name="answer_4">self discipline by drivers and obeying traffic rules and regulations</string>
+
+
+    <string name="question_5">On a four (4) lane road with single white line, you can</string>
+
+    <string name="question5_A">Overtake by passing over the solid white line</string>
+    <string name="question5_B">Overtake by passing over the double yellow line</string>
+    <string name="question5_C">Overtake by passing over the single yellow line</string>
+    <string name="question5_D">Overtake by passing over the stop lane</string>
+    <string name="answer_5">Overtake by passing over the solid white line</string>
+
+
+    <string name="question_6">Traffic jam can be prevented if you</string>
+
+    <string name="question6_A">drive within speed limit</string>
+    <string name="question6_B">Keep opposing lanes open </string>
+    <string name="question6_C">drive faster</string>
+    <string name="question6_D">Slowdown</string>
+    <string name="answer_6">Keep opposing lanes open </string>
+
+
+    <string name="question_7">When making a U-turn you should</string>
+
+    <string name="question7_A">increase speed to make the u-turn faster and safer</string>
+    <string name="question7_B">check for traffic beside you and beat them to the spot</string>
+    <string name="question7_C">Apply your brakes gently with steady pressure</string>
+    <string name="question7_D">Check for traffic behind you and indicate your intentions with a left turn signal</string>
+    <string name="answer_7">Check for traffic behind you and indicate your intentions with a left turn signal</string>
+
+
+    <string name="question_8">Signs that are triangular in shape and with a red colored border are called</string>
+
+    <string name="question8_A">Regulatory signs</string>
+    <string name="question8_B">Caution or warning sign </string>
+    <string name="question8_C">Informative signs</string>
+    <string name="question8_D">Make signal</string>
+    <string name="answer_8">Caution or warning sign</string>
+
+
+    <string name="question_9">Signs that are round, inverted triangle or octagonal and with red colored boarders are called</string>
+
+    <string name="question9_A">Regulatory signs</string>
+    <string name="question9_B">Informative signs</string>
+    <string name="question9_C">Caution or warning sign</string>
+    <string name="question9_D">Make signal</string>
+    <string name="answer_9">Regulatory signs</string>
+
+    <string name="question_10">When a driver of PUV refuses to render service, convey passengers, such violation is penalize with</string>
+
+    <string name="question10_A">Fine of Php 1, 000</string>
+    <string name="question10_B">Fine of Php 2, 000</string>
+    <string name="question10_C">Fine of Php 3, 000</string>
+    <string name="question10_D">Fine of Php 4, 000</string>
+    <string name="answer_10">Fine of Php 1, 000</string>
+
+
+    <string name="question_11">Single with broken line on a two-lane road means</string>
+
+    <string name="question11_A">It separates traffic moving in slow down directions</string>
+    <string name="question11_B">It separates traffic moving in right directions</string>
+    <string name="question11_C">It separates traffic moving in opposite directions</string>
+    <string name="question11_D">It separates traffic moving in left directions</string>
+    <string name="answer_11">It separates traffic moving in opposite directions</string>
+
+    <string name="question_12">What to do when you approach a crosswalk or pedestrian lane</string>
+
+    <string name="question12_A">Stop and yield to pedestrians</string>
+    <string name="question12_B">Pedestrians are not allowed to cross the pedestrian lanes</string>
+    <string name="question12_C">Pedestrians crossing within a crosswalk</string>
+    <string name="question12_D">Always exercise care for pedestrians and other road users around</string>
+    <string name="answer_12">Stop and yield to pedestrians</string>
+
+    <string name="question_13">Driving an unregistered motor vehicle is a violation with a fine of</string>
+
+    <string name="question13_A">Php 10, 000</string>
+    <string name="question13_B">Php 15, 000</string>
+    <string name="question13_C">Php 13, 000</string>
+    <string name="question13_D">Php 12, 000</string>
+    <string name="answer_13">Php 10, 000</string>
+
+    <string name="question_14">Considered a parking violation?</string>
+
+    <string name="question14_A">Parking within 15 meters from a signalized intersect</string>
+    <string name="question14_B">Parking within 3 meters from a signalized intersect</string>
+    <string name="question14_C">Parking within 10 meters from a signalized intersect</string>
+    <string name="question14_D">Parking within 5 meters from a signalized intersect</string>
+    <string name="answer_14">Parking within 5 meters from a signalized intersect</string>
+
+    <string name="question_15">Green light at an intersection means</string>
+
+    <string name="question15_A">Stop and yield to pedestrians</string>
+    <string name="question15_B">Pedestrians are allowed to cross the pedestrian lane</string>
+    <string name="question15_C">Pedestrians are not allowed to cross the pedestrian lane</string>
+    <string name="question15_D">Go and yield to pedestrians</string>
+    <string name="answer_15">Pedestrians are allowed to cross the pedestrian lane</string>
+
+    <string name="question_16">Flashing yellow light means</string>
+
+    <string name="question16_A">Proceed through the intersection with caution</string>
+    <string name="question16_B">Do not proceed through the intersection with caution</string>
+    <string name="question16_C">Slow down and yield the right of way to any vehicle in the intersection</string>
+    <string name="question16_D">Continue to the next intersection to make the desired turn</string>
+    <string name="answer_16">Proceed through the intersection with caution</string>
+
+    <string name="question_17">The minimum distance away from the vehicle you are following is</string>
+
+    <string name="question17_A">1 car length</string>
+    <string name="question17_B">2 car length</string>
+    <string name="question17_C">3 car length</string>
+    <string name="question17_D">4 car length</string>
+    <string name="answer_17">1 car length</string>
+
+    <string name="question_18">When do you have a complete/full stop</string>
+
+    <string name="question18_A">At a red traffic light</string>
+    <string name="question18_B">At a yellow traffic light</string>
+    <string name="question18_C">At a green traffic light</string>
+    <string name="question18_D">None of the above</string>
+    <string name="answer_18">At a red traffic light</string>
+
+
+    <string name="question_19">On a two-lane road, overtaking is only allowed only at the</string>
+
+    <string name="question19_A">Next lane</string>
+    <string name="question19_B">Right lane</string>
+    <string name="question19_C">Left lane</string>
+    <string name="question19_D">One lane only</string>
+    <string name="answer_19">Left lane</string>
+
+
+    <string name="question_20">Parking is considered as a violation when a motor vehicle</string>
+
+    <string name="question20_A">Park at the entrance and exit of hospital and fire station</string>
+    <string name="question20_B">Park at the entrance and exit of school and police station</string>
+    <string name="question20_C">Park at the entrance and exit of church and colosseum </string>
+    <string name="question20_D">Park at the entrance and exit of park and mall </string>
+    <string name="answer_20">Park at the entrance and exit of hospital and fire station</string>
+
+
+    <string name="question_21">Parking is prohibited</string>
+
+    <string name="question21_A">Approach to intersection</string>
+    <string name="question21_B">Within an intersection</string>
+    <string name="question21_C">Slow down and yield the right of way to any vehicle in the intersection</string>
+    <string name="question21_D">Continue to the next intersection to make the desired turn</string>
+    <string name="answer_21">Within an intersection</string>
+
+
+    <string name="question_22">On a wet road, you must</string>
+
+    <string name="question22_A">Ignore it</string>
+    <string name="question22_B">You can speed high</string>
+    <string name="question22_C">Slippery road</string>
+    <string name="question22_D">Slow down</string>
+    <string name="answer_22">Slow down</string>
+
+
+    <string name="question_23">When parking uphill without a curb, turn your wheels</string>
+
+    <string name="question23_A">Towards the edge of the road</string>
+    <string name="question23_B">Downwards the edge of the road</string>
+    <string name="question23_C">Slowdown the edge of the road</string>
+    <string name="question23_D">Turn your wheels to curb</string>
+    <string name="answer_23">Towards the edge of the road</string>
+
+
+    <string name="question_24">When parking downhill, you must;</string>
+
+    <string name="question24_A">Turn your wheels away from the curb</string>
+    <string name="question24_B">Turn your wheels to curb</string>
+    <string name="question24_C">Towards the edge of the road</string>
+    <string name="question24_D">Downwards the edge of the road</string>
+    <string name="answer_24">Turn your wheels to curb</string>
+
+
+    <string name="question_25">Whenever you are driving, especially when overtaking</string>
+
+    <string name="question25_A">Slow down gradually and give him the signal to overtake you</string>
+    <string name="question25_B">Overtake another vehicle from a tailgating position</string>
+    <string name="question25_C">Turn your wheels away from the curb</string>
+    <string name="question25_D">Never overtake another vehicle from a tailgating position</string>
+    <string name="answer_25">Never overtake another vehicle from a tailgating position</string>
+
+
+    <string name="question_26">When driving on a highway, do not stare at the vehicle in front of you, instead you should</string>
+
+    <string name="question26_A">Extend your scanning distance to about 15 seconds beyond the front of your vehicle</string>
+    <string name="question26_B">Extend your scanning distance to about 5 seconds beyond the front of your vehicle</string>
+    <string name="question26_C">Extend your scanning distance to about 12 seconds beyond the front of your vehicle</string>
+    <string name="question26_D">Extend your scanning distance to about 30 seconds beyond the front of your vehicle</string>
+    <string name="answer_26">Extend your scanning distance to about 12 seconds beyond the front of your vehicle</string>
+
+
+    <string name="question_27">When driving on mountain roads during daytime, you should</string>
+
+    <string name="question27_A">Ignore it</string>
+    <string name="question27_B">Blow your horn every 1 minute</string>
+    <string name="question27_C">blow your horn when you think it\'s necessary.</string>
+    <string name="question27_D">Blow your horn when approaching a blind curve</string>
+    <string name="answer_27">Blow your horn when approaching a blind curve</string>
+
+
+    <string name="question_28">It refers to an act penalizing person under the influence of alcohol, dangerous drugs, and similar substances, and for other purpose.</string>
+
+    <string name="question28_A">R.A. No. 70586</string>
+    <string name="question28_B">R.A. No. 10586</string>
+    <string name="question28_C">R.A. No. 60586</string>
+    <string name="question28_D">R.A. No. 40586</string>
+    <string name="answer_28">R.A. No. 10586</string>
+
+
+    <string name="question_29">The headlights should be used often as needed to</string>
+
+    <string name="question29_A">Always turn your headlights on</string>
+    <string name="question29_B">make your intentions known to drivers around you</string>
+    <string name="question29_C">Make your intentions known to drivers around you</string>
+    <string name="question29_D">to signal to other drivers you have the right of way</string>
+    <string name="answer_29">Make your intentions known to drivers around you</string>
+
+    <string name="question_30">When driving downhill on a mountain road always</string>
+
+    <string name="question30_A">Turn Off the engine</string>
+    <string name="question30_B">Shift to low gear so the engine braking action can help you control your speed</string>
+    <string name="question30_C">Be always prepared to hit the brakes</string>
+    <string name="question30_D">Blow your horn every 1 minute</string>
+    <string name="answer_30">Shift to low gear so the engine braking action can help you control your speed</string>
+
+
+    <string name="question_31">When negotiating a curve on a highway at a relatively high speed you should</string>
+
+    <string name="question31_A">maintain speed to avoid accidents from drivers behind you</string>
+    <string name="question31_B">You can speed high</string>
+    <string name="question31_C">Decrease your speed further as you enter the curve</string>
+    <string name="question31_D">increase your speed so you won\'t violate minimum speed limits</string>
+    <string name="answer_31">Decrease your speed further as you enter the curve</string>
+
+
+    <string name="question_32">One that affects your visibility?</string>
+
+    <string name="question32_A">Defective or dirty headlights</string>
+    <string name="question32_B">Rainy road</string>
+    <string name="question32_C">Foggy road</string>
+    <string name="question32_D">Poor road lighting</string>
+    <string name="answer_32">Defective or dirty headlights</string>
+
+    <string name="question_33">At night, you should never drive at a speed which would prevent you from stopping within the distance:</string>
+
+    <string name="question33_A">of 270 feet</string>
+    <string name="question33_B">of 170 feet</string>
+    <string name="question33_C">you can\'t see in your headlights</string>
+    <string name="question33_D">of a 4 car-lengths</string>
+    <string name="answer_33">you can\'t see in your headlights</string>
+
+    <string name="question_34">When driving at night, you should</string>
+
+    <string name="question34_A">Always turn your headlights on</string>
+    <string name="question34_B">You can use parking light</string>
+    <string name="question34_C">High the light</string>
+    <string name="question34_D">Beam the light</string>
+    <string name="answer_34">Always turn your headlights on</string>
+
+    <string name="question_35">A single solid yellow or white line means</string>
+
+    <string name="question35_A">Passing/overtaking is allowed to</string>
+    <string name="question35_B">Passing/overtaking is not allowed</string>
+    <string name="question35_C">Slow down gradually and give him the signal to overtake you</string>
+    <string name="question35_D">None ov the above</string>
+    <string name="answer_35">Passing/overtaking is not allowed</string>
+
+    <string name="question_36">Passing/overtaking is allowed</string>
+
+    <string name="question36_A">on highway with solid yellow lines</string>
+    <string name="question36_B">on highway with at least 60kph speed limit</string>
+    <string name="question36_C">on highway with two or more lanes</string>
+    <string name="question36_D">Crossbuck</string>
+    <string name="answer_36">on highway with two or more lanes</string>
+
+    <string name="question_37">A driver on a highway shall yield the right of way to</string>
+
+    <string name="question37_A">driver on a highway shall yield the right of way to:</string>
+    <string name="question37_B">Pedestrians crossing within a crosswalk</string>
+    <string name="question37_C">police, fire department vehicles, and ambulances when such vehicles are on official business</string>
+    <string name="question37_D">politicians when such vehicles are on official business</string>
+    <string name="answer_37">Pedestrians crossing within a crosswalk</string>
+
+    <string name="question_38">This traffic signs warns you that school children may be present in the vicinity</string>
+
+    <string name="question38_A">Square it</string>
+    <string name="question38_B">Triangle</string>
+    <string name="question38_C">Circle</string>
+    <string name="question38_D">Pentagon</string>
+    <string name="answer_38">Pentagon</string>
+
+    <string name="question_39">A flashing red light means</string>
+
+    <string name="question39_A">Slow down, then go on safely</string>
+    <string name="question39_B">Stop, then proceed if it is safe</string>
+    <string name="question39_C">Wait for the yellow light</string>
+    <string name="question39_D">You can go</string>
+    <string name="answer_39">Stop, then proceed if it is safe</string>
+
+    <string name="question_40">The signal warns of a hazard ahead</string>
+
+    <string name="question40_A">Circlet</string>
+    <string name="question40_B">Triangle</string>
+    <string name="question40_C">Diamond</string>
+    <string name="question40_D">Square</string>
+    <string name="answer_40">Diamond</string>
+
+
+    <string name="question_41">This traffic sign states directions and distances</string>
+
+    <string name="question41_A">Cautions or warning signs</string>
+    <string name="question41_B">Directional sign</string>
+    <string name="question41_C">Regulatory sign</string>
+    <string name="question41_D">Informative signs</string>
+    <string name="answer_41">Informative signs</string>
+
+
+    <string name="question_42">Children must be held in approved child restraint if they are</string>
+
+    <string name="question42_A">6 years old and below</string>
+    <string name="question42_B">7 years old and below</string>
+    <string name="question42_C">8 years old and below</string>
+    <string name="question42_D">10 years old and below</string>
+    <string name="answer_42">6 years old and below</string>
+
+
+    <string name="question_43">Seat belts must be worn by children aged</string>
+
+    <string name="question43_A">5 years old and above</string>
+    <string name="question43_B">6 years old and above</string>
+    <string name="question43_C">7 years old and above</string>
+    <string name="question43_D">8 years old and above</string>
+    <string name="answer_43">7 years old and above</string>
+
+
+    <string name="question_44">The Temporary Operators Permit (TOP) authorizes the apprehended driver to operate motor vehicle for a period not exceeding</string>
+
+    <string name="question44_A">12 hours</string>
+    <string name="question44_B">72 hours</string>
+    <string name="question44_C">24 hours</string>
+    <string name="question44_D">48 hours</string>
+    <string name="answer_44">72 hours</string>
+
+
+    <string name="question_45">A red flag or red light must be attached to any load that extends over</string>
+
+    <string name="question45_A">One meter from the back of the car</string>
+    <string name="question45_B">Two meters from the back of the car</string>
+    <string name="question45_C">Three meters from the back of the car</string>
+    <string name="question45_D">Four meters from the back of the car</string>
+    <string name="answer_45">One meter from the back of the car</string>
+
+
+    <string name="question_46">In adverse driving conditions, the 2-second rule should be increased to</string>
+
+    <string name="question46_A">2-second rule</string>
+    <string name="question46_B">3-second rule</string>
+    <string name="question46_C">4-second rule</string>
+    <string name="question46_D">5-second rule</string>
+    <string name="answer_46">4-second rule</string>
+
+
+    <string name="question_47">When a vehicle starts to skid, what should the driver do</string>
+
+    <string name="question47_A">Immediately step on the brakes</string>
+    <string name="question47_B">Hold firmly on to the wheel while slowing down the vehicle</string>
+    <string name="question47_C">Turn the wheels tp the opposite the direction of the skid</string>
+    <string name="question47_D">Continuously as they drive</string>
+    <string name="answer_47">Hold firmly on to the wheel while slowing down the vehicle</string>
+
+
+    <string name="question_48">To obtain one’s driver’s license, one must be at least</string>
+
+    <string name="question48_A">16 years old</string>
+    <string name="question48_B">17 years old</string>
+    <string name="question48_C">18 years old</string>
+    <string name="question48_D">19 years old</string>
+    <string name="answer_48">17 years old</string>
+
+
+    <string name="question_49">If a driver is driving too fast into a curve, he</string>
+
+    <string name="question49_A">Should slam the brakes when the needed</string>
+    <string name="question49_B">Should not pull the handbrake</string>
+    <string name="question49_C">Should not slam the brakes</string>
+    <string name="question49_D">Should not slam the Accelerator</string>
+    <string name="answer_49">should not slam the brakes</string>
+
+
+    <string name="question_50">Never park or stop at the side of the road with a fire hydrant</string>
+
+    <string name="question50_A">5 meter</string>
+    <string name="question50_B">10 meter</string>
+    <string name="question50_C">15 meter road</string>
+    <string name="question50_D">20 meter</string>
+    <string name="answer_50">5 meter</string>
+
+
+    <string name="question_51">A driver must park within the curb by putting the car in low gear and setting the parking brake for at least</string>
+
+    <string name="question51_A">15 centimeter</string>
+    <string name="question51_B">20 centimeter</string>
+    <string name="question51_C">30 centimeter</string>
+    <string name="question51_D">40 centimeter</string>
+    <string name="answer_51">30 centimeter</string>
+
+
+    <string name="question_52">In bad conditions, the 2-second rule should be increased to</string>
+
+    <string name="question52_A">3 seconds</string>
+    <string name="question52_B">4 seconds</string>
+    <string name="question52_C">5 seconds</string>
+    <string name="question52_D">6 seconds</string>
+    <string name="answer_52">4 seconds</string>
+
+
+    <string name="question_53">Close should another car before dim your headlights?</string>
+
+    <string name="question53_A">100 meter</string>
+    <string name="question53_B">150 meter</string>
+    <string name="question53_C">200 meter</string>
+    <string name="question53_D">250 meter</string>
+    <string name="answer_53">150 meter</string>
+
+
+    <string name="question_54">What should you do before turning left or right?</string>
+
+    <string name="question54_A">Abruptly turn left and sound your horn</string>
+    <string name="question54_B">Don\'t bother giving a signal</string>
+    <string name="question54_C">Give a signal while no less than 30 meters before turning</string>
+    <string name="question54_D">Give a signal while no less than 60 meters before turning</string>
+    <string name="answer_54">Give a signal while no less than 30 meters before turning</string>
+
+    <string name="question_55">If a driver passes a blind person, he</string>
+
+    <string name="question55_A">Should not flash his head lights</string>
+    <string name="question55_B">Should not sound his horn</string>
+    <string name="question55_C">Should reduce his speed</string>
+    <string name="question55_D">Should not be crossed anytime</string>
+    <string name="answer_55">should not sound his horn</string>
+
+    <string name="question_56">A steady red cross means</string>
+
+    <string name="question56_A">You cannot drive on this lane</string>
+    <string name="question56_B">Proceed with caution</string>
+    <string name="question56_C">You can drive on this lane with caution</string>
+    <string name="question56_D">No entry for all types of vehicles</string>
+    <string name="answer_56">You cannot drive on this lane</string>
+
+    <string name="question_57">Before changing lanes you should make a signal, look at the rear-view and side-view mirrors and</string>
+
+    <string name="question57_A">sound your horn</string>
+    <string name="question57_B">Have a quick look over your shoulders to watch out for oncoming vehicles</string>
+    <string name="question57_C">turn on the headlight</string>
+    <string name="question57_D">Should not sound his horn</string>
+    <string name="answer_57">Have a quick look over your shoulders to watch out for oncoming vehicles</string>
+
+    <string name="question_58">To execute a safe turn, a motorcycle rider should always</string>
+
+    <string name="question58_A">lean the motorcycle in the direction of the curve or turn</string>
+    <string name="question58_B">be quick and alert in executing the turn</string>
+    <string name="question58_C">lean the motorcycle in the other direction of the curve or turn</string>
+    <string name="question58_D">Before operating the motor vehicle</string>
+    <string name="answer_58">lean the motorcycle in the direction of the curve or turn</string>
+
+    <string name="question_59">When a heavy fog occurs, you should</string>
+
+    <string name="question59_A">Turn on your headlights and switch on the windshield wipers</string>
+    <string name="question59_B">Drive slowly and turn on the headlights</string>
+    <string name="question59_C">Park at a rest area or vehicle stop until the fog has lifted</string>
+    <string name="question59_D">Slow down and proceed with caution</string>
+    <string name="answer_59">Park at a rest area or vehicle stop until the fog has lifted</string>
+
+    <string name="question_60">Before making a turn, the driver should use the turn signal at what distance</string>
+
+    <string name="question60_A">10 meters</string>
+    <string name="question60_B">20 meters</string>
+    <string name="question60_C">30 meters</string>
+    <string name="question60_D">40 meters</string>
+    <string name="answer_60">30 meters</string>
+
+    <!-- Tagalog Exam-->
+
+    <string name="tquestion_1">Habang nag mamaneho, dapat kang tumingin sa "side and rear mirrors" ng</string>
+
+    <string name="tquestion1_A">Mabilis</string>
+    <string name="tquestion1_B">Mabagal</string>
+    <string name="rquestion1_C">Huminto</string>
+    <string name="tquestion1_D">Patayin ang makina</string>
+    <string name="tanswer_1">Mabilis</string>
+
+    <string name="tquestion_2">Sa isang interseksyon na may “STOP SIGN” dapat kang </string>
+
+    <string name="tquestion2_A">Dedmahin at mag patuloy</string>
+    <string name="tquestion2_B">Mabagal at mag patuloy kung walang panganib</string>
+    <string name="tquestion2_C">Patayin ang makina</string>
+    <string name="tquestion2_D">Huminto at mag patuloy kung walang panganib </string>
+    <string name="tanswer_2">Huminto at mag patuloy kung walang panganib</string>
+
+    <string name="tquestion_3">Maari bang lumusot (overtake) sa kanang bahagi ng sasakyan kung</string>
+
+    <string name="tquestion3_A">ang kalsada ay salubungang-daan (two-way)</string>
+    <string name="tquestion3_B">malapad ang bangketa</string>
+    <string name="tquestion3_C">Ang highway ay may isa linya patungo sa isang direksyon</string>
+    <string name="tquestion3_D">Ang highway ay may dalawa o higit pang linya patungo sa isang direksyon</string>
+    <string name="tanswer_3">Ang highway ay may dalawa o higit pang linya patungo sa isang direksyon</string>
+
+
+    <string name="tquestion_4">Ang tamang gulang sa pagkuha ng lisensyang “Non-Professional” ay</string>
+
+    <string name="tquestion4_A">16 taong gulang</string>
+    <string name="tquestion4_B">17 taong gulang</string>
+    <string name="tquestion4_C">18 taong gulang</string>
+    <string name="tquestion4_D">21 taong gulang</string>
+    <string name="tanswer_4">17 taong gulang</string>
+
+
+    <string name="tquestion_5">Bago umalis ng paradahan dapat mong</string>
+
+    <string name="tquestion5_A">hindi ng nabanggit</string>
+    <string name="tquestion5_B">magpatakbo agad</string>
+    <string name="tquestion5_C">bumusina</string>
+    <string name="tquestion5_D">Suriin ang paligid bago mag patakbo</string>
+    <string name="tanswer_5">Suriin ang paligid bago mag patakbo</string>
+
+
+    <string name="tquestion_6">Matapos kang lumampas (overtake) at nais mong bumalik sa pinanggalingan linya ng ligtas kailangan</string>
+
+    <string name="tquestion6_A">tignan sa "rear-view mirror" ang iyong nilagpasan</string>
+    <string name="tquestion6_B">lumingon sa iyong nilagpasan</string>
+    <string name="tquestion6_C">huminto</string>
+    <string name="tquestion6_D">bilisan mag maneho</string>
+    <string name="tanswer_6">tignan sa "rear-view mirror" ang iyong nilagpasan</string>
+
+
+    <string name="tquestion_7">Ano ang dapat mong ihanda kung malayo ang biyahe</string>
+
+    <string name="tquestion7_A">Maghanda ng kagamitang pangkumpuni ng sasakyan kung masiraan</string>
+    <string name="tquestion7_B">Planuhin ang ruta at ikondisyon ang sasakyan</string>
+    <string name="tquestion7_C">Tama lahat ang nasa A at B</string>
+    <string name="tquestion7_D">Walang nabangit</string>
+    <string name="tanswer_7">Tama lahat ang nasa A at B</string>
+
+
+    <string name="tquestion_8">Ang sasakyan ay nakaparada (parked) kung</string>
+
+    <string name="tquestion8_A">nakatigil ng matagal at patay ang makina</string>
+    <string name="tquestion8_B">nakatigil ng matagal at nagsasakay ng pasahero</string>
+    <string name="tquestion8_C">nakatigil ng matagal at nagbababa ng pasahero</string>
+    <string name="tquestion8_D">nakatigil ng matagal at yung driver nagbaba</string>
+    <string name="tanswer_8">nakatigil ng matagal at patay ang makina</string>
+
+
+    <string name="tquestion_9">Ang pagkakaroon ng lisensya ay isang</string>
+
+    <string name="tquestion9_A">kaylangan</string>
+    <string name="tquestion9_B">pribilehiyos</string>
+    <string name="tquestion9_C">karangalan</string>
+    <string name="tquestion9_D">karapatan</string>
+    <string name="tanswer_9">pribilehiyos</string>
+
+    <string name="tquestion_10">Ang lisensyang “Non-Professional” ay para lamang sa</string>
+
+    <string name="tquestion10_A">pampasaherong sasakyan</string>
+    <string name="tquestion10_B">Pang Gobyernong sasakyan</string>
+    <string name="tquestion10_C">pampasaherong sasakyan</string>
+    <string name="tquestion10_D">mga pribadong sasakyan</string>
+    <string name="tanswer_10">mga pribadong sasakyan</string>
+
+
+    <string name="tquestion_11">Kung paparada ng paahon sa may bangketa, dapat mong ipihit ang gulong</string>
+
+    <string name="tquestion11_A">Palayo sa bangketa</string>
+    <string name="tquestion11_B">papuntang bangketa</string>
+    <string name="tquestion11_C">kahit anong direksyon</string>
+    <string name="tquestion11_D">Mag preno</string>
+    <string name="tanswer_11">Palayo sa bangketa1</string>
+
+    <string name="tquestion_12">Ano ang kahulugan ng patay sinding kulay pulang ilaw trapiko?</string>
+
+    <string name="tquestion12_A">Maghintay ng berdeng ilaw</string>
+    <string name="tquestion12_B">Bagalan ang takbo at tumuloy ng maingat</string>
+    <string name="tquestion12_C">Huminto at magpatuloy kung ligtas</string>
+    <string name="tquestion12_D">Walang nabangit</string>
+    <string name="tanswer_12">Huminto at magpatuloy kung ligtas</string>
+
+    <string name="tquestion_13">Anong dapat gawin bago lumiko sa kanan o kaliwa ?</string>
+
+    <string name="tquestion13_A">Magbigay ng hudyat na hindi kukulang sa 15 metro</string>
+    <string name="tquestion13_B">Magbigay ng hudyat na hindi kukulang sa 30 metro</string>
+    <string name="tquestion13_C">Magbigay ng hudyat na hindi kukulang sa 45 metro</string>
+    <string name="tquestion13_D">Magbigay ng hudyat na hindi kukulang sa 60 metro</string>
+    <string name="tanswer_13">Magbigay ng hudyat na hindi kukulang sa 30 metro</string>
+
+    <string name="tquestion_14">Sa tuwing lilipat ng linya, dapat sumenyas, tignan ang iyong “rear view mirror” at</string>
+
+    <string name="tquestion14_A">bumusina</string>
+    <string name="tquestion14_B">tignan kung may parating na sasakyan</string>
+    <string name="tquestion14_C">Tignan kung may parating na sasakyan</string>
+    <string name="tquestion14_D">Huwag tingan kung may parating na sasakyan</string>
+    <string name="tanswer_14">Tignan kung may parating na sasakyan</string>
+
+    <string name="tquestion_15">a highway na may dalawang guhit maari kang lumusot (overtake) kung sa iyong panig ay may</string>
+
+    <string name="tquestion15_A">Putol-putol na dilaw na guhit</string>
+    <string name="tquestion15_B">putol-putol na dilaw na guhit</string>
+    <string name="tquestion15_C">tuloy-tuloy na puting guhit</string>
+    <string name="tquestion15_D">tuloy-tuloy na dilaw guhit</string>
+    <string name="tanswer_15">Putol-putol na dilaw na guhit</string>
+
+    <string name="tquestion_16">Ang hindi pagsunod sa ilaw trapiko ay</string>
+
+    <string name="tquestion16_A">magiging mahusay na drayber</string>
+    <string name="tquestion16_B">makakatipid sa gasolina</string>
+    <string name="tquestion16_C">malamang na masangkot sa malubhang aksidente</string>
+    <string name="tquestion16_D">malamang na masangkot sa kriminal</string>
+    <string name="tanswer_16">malamang na masangkot sa malubhang aksidente</string>
+
+    <string name="tquestion_17">Kung ang drayber ng sasakyan na sa unahan mo ay maglabas ng kanyang kaliwang kamay at iunat ito, nakatitiyak ka na siya ay</string>
+
+    <string name="tquestion17_A">kakaliwa</string>
+    <string name="tquestion17_B">kakanan</string>
+    <string name="tquestion17_C">hihinto</string>
+    <string name="tquestion17_D">diretsyo</string>
+    <string name="tanswer_17">kakaliwa</string>
+
+    <string name="tquestion_18">Ano ang dapat gawin kung parating nasa isang kurbada?</string>
+
+    <string name="tquestion18_A">Magpreno ng bigla habang tumatakbo sa kurbada</string>
+    <string name="tquestion18_B">Magmarahan/bagalan ang takbo bago dumating sa kurbada</string>
+    <string name="tquestion18_C">At a green traffic light</string>
+    <string name="tquestion18_D">Magpabilis ng bigla habang tumatakbo sa kurbada</string>
+    <string name="tanswer_18">Magmarahan/bagalan ang takbo bago dumating sa kurbada</string>
+
+
+    <string name="tquestion_19">Ang mahuling lasing sa alak o ipinagbabawal na gamot ay may karampatang parusa na</string>
+
+    <string name="tquestion19_A">Pagsuspinde ng lisensya</string>
+    <string name="tquestion19_B">Pagkabilanggo ng anim na buwan</string>
+    <string name="tquestion19_C">Tama ang A at B</string>
+    <string name="tquestion19_D">Walang Nabangit</string>
+    <string name="tanswer_19">Tama ang A at B</string>
+
+
+    <string name="tquestion_20">Kung magpapatakbo ng mabagal sa “Expressway” dapat kang gumawi sa</string>
+
+    <string name="tquestion20_A">gitnang linya</string>
+    <string name="tquestion20_B">kanang linya</string>
+    <string name="tquestion20_C">kaliwang linya</string>
+    <string name="tquestion20_D">gilid linya </string>
+    <string name="tanswer_20">kanang linya</string>
+
+
+    <string name="tquestion_21">Ano ang dapat mong dalhin kung nagmamaneho?</string>
+
+    <string name="tquestion21_A">Lisensya, rehistro at resibo ng huling pinagbayaran ng sasakyan sa LTO</string>
+    <string name="tquestion21_B">Lisensyan</string>
+    <string name="tquestion21_C">Lisensya at papel de seguro ng sasakyan</string>
+    <string name="tquestion21_D">Wala</string>
+    <string name="tanswer_21">Within an intersection</string>
+
+
+    <string name="tquestion_22">Kung masangkot sa isang sakuna, dapat itong ipagbigay alam sa pinakamalapit na himpilan ng pulisya</string>
+
+    <string name="tquestion22_A">Kaagad-agad</string>
+    <string name="tquestion22_B">sa loob ng 72 oras</string>
+    <string name="tquestion22_C">sa loob ng 72 oras</string>
+    <string name="tquestion22_D">sa loob ng 1 week</string>
+    <string name="tanswer_22">Kaagad-agad</string>
+
+
+    <string name="tquestion_23">Mapanganib magpatakbo ng matulin kung gabi sapagkat</string>
+
+    <string name="tquestion23_A">malayo ang abot tanaw kong gabi</string>
+    <string name="tquestion23_B">maikli ang abot tanaw kong gabi</string>
+    <string name="tquestion23_C">malabo ang abot tanaw kong gabi</string>
+    <string name="tquestion23_D">malinaw ang abot tanaw kong gabi</string>
+    <string name="tanswer_23">maikli ang abot tanaw kong gabi</string>
+
+
+    <string name="tquestion_24">Ano ang dapat gawin kung pinahihinto ng pulis</string>
+
+    <string name="tquestion24_A">huminto at ibigay ang lisensya at iba pang papels ng sasakyan kung hinihingi</string>
+    <string name="tquestion24_B">Wag huminto</string>
+    <string name="tquestion24_C">Makiusap sa pulis</string>
+    <string name="tquestion24_D">Walang nabangit</string>
+    <string name="tanswer_24">huminto at ibigay ang lisensya at iba pang papels ng sasakyan kung hinihingi</string>
+
+
+    <string name="tquestion_25">Mapanganib ang palikong kaliwa kaysa kanan sapagkat</string>
+
+    <string name="tquestion25_A">mabilis ang sasakyang galing sa kaliwa</string>
+    <string name="tquestion25_B">kailangang maging listo sa mga sasakyang nagmumula sa kaliwa o kanan</string>
+    <string name="tquestion25_C">maraming linya ang kalsada</string>
+    <string name="tquestion25_D">madulas ang kalsada</string>
+    <string name="tanswer_25">kailangang maging listo sa mga sasakyang nagmumula sa kaliwa o kanan</string>
+
+
+    <string name="tquestion_26">Ang pinakaligtas na alituntunin kahit ikaw ang may karapatan sa daan ay:</string>
+
+    <string name="tquestion26_A">huwag ipilit ang karapatan</string>
+    <string name="tquestion26_B">bumusina</string>
+    <string name="tquestion26_C">laging ipilit ang karapatan</string>
+    <string name="tquestion26_D">Walang nabangit</string>
+    <string name="tanswer_26">huwag ipilit ang karapatan</string>
+
+
+    <string name="tquestion_27">Sa mga rotonda, alin ang may karapatan sa daan?</string>
+
+    <string name="tquestion27_A">Ang sasakyang papasok pa lamang sa rotonda</string>
+    <string name="tquestion27_B">Ang sasakyang nasa paligid ng rotonda</string>
+    <string name="tquestion27_C">Ang sasakyang nakaharap sa berdeng ilaw</string>
+    <string name="tquestion27_D">Ang sasakyang nakaharap sa Pulang ilaw</string>
+    <string name="tanswer_27">Ang sasakyang nasa paligid ng rotonda</string>
+
+
+    <string name="tquestion_28">Hindi dapat lumusot (Overtake) sa paanan ng tulay sapagkat</string>
+
+    <string name="tquestion28_A">may tumatawid</string>
+    <string name="tquestion28_B">hindi nakikita ang kasalubong na sasakyan</string>
+    <string name="tquestion28_C">makipot ang daan</string>
+    <string name="tquestion28_D">maluwag ang daan</string>
+    <string name="tanswer_28">hindi nakikita ang kasalubong na sasakyan</string>
+
+
+    <string name="tquestion_29">Ano ang pinakaligtas na distansya/agwat ng isang sasakyang sa kanyang sinusundan?</string>
+
+    <string name="tquestion29_A">Isang sukat ng sasakyan</string>
+    <string name="tquestion29_B">Dalawang sukat ng sasakyan</string>
+    <string name="tquestion29_C">Tatlong sukat ng sasakyan</string>
+    <string name="tquestion29_D">Apat na sukat ng sasakyan</string>
+    <string name="tanswer_29">Isang sukat ng sasakyan</string>
+
+    <string name="tquestion_30">Ano ang kahulugan ng patay sinding dilaw na ilaw trapiko?</string>
+
+    <string name="tquestion30_A">Magmarahan at magpatuloy kung walang panganib</string>
+    <string name="tquestion30_B">Huminto at hintayin magbago ang ilaw</string>
+    <string name="tquestion30_C">Magpatuloy at kahit pabagobago ang ilaw</string>
+    <string name="tquestion30_D">Hintayin ang berdeng ilaw</string>
+    <string name="tanswer_30">magmarahan at magpatuloy kung walang panganib</string>
+
+
+    <string name="tquestion_31">Ano ang kahulugan ng tuloy-tuloy na guhit na kulay dilaw?</string>
+
+    <string name="tquestion31_A">Maaaring lumusot (overtake)</string>
+    <string name="tquestion31_B">Bawal lumusot</string>
+    <string name="tquestion31_C">Tama lahat ng sagot</string>
+    <string name="tquestion31_D">Walang nabangit</string>
+    <string name="tanswer_31">Bawal lumusot</string>
+
+
+    <string name="tquestion_32">Ayon sa batas, hindi ka maaring, magmaneho ng matulin maliban kung</string>
+
+    <string name="tquestion32_A">walang panganib</string>
+    <string name="tquestion32_B">naaayon sa takdang bilis o tulin</string>
+    <string name="tquestion32_C">Tama ang A at B</string>
+    <string name="tquestion32_D">Walang nabanggit</string>
+    <string name="tanswer_32">Tama ang A at B</string>
+
+    <string name="tquestion_33">Ano ang dapat mong gawin kung ang sasakyan sa likuran mo ay gusting lumusot (overtake)</string>
+
+    <string name="tquestion33_A">Gumawi sa kanan at huminto</string>
+    <string name="tquestion33_B">Gumawi sa kaliwaw at huminto</string>
+    <string name="tquestion33_C">Magmarahan, gumawi sa kanan at bayaan itong lumagpas</string>
+    <string name="tquestion33_D">Bumusina at hayaan itong lumagpas</string>
+    <string name="tanswer_33">Magmarahan, gumawi sa kanan at bayaan itong lumagpas</string>
+
+    <string name="tquestion_34">Ang isang may lisensya ay maaring magmaneho ng </string>
+
+    <string name="tquestion34_A">kahit anong uri ng sasakyan</string>
+    <string name="tquestion34_B">pampasaherong sasakyan lamang</string>
+    <string name="tquestion34_C">sasakyang nakasaad sa lisensya</string>
+    <string name="tquestion34_D">Walang nabangit</string>
+    <string name="tanswer_34">sasakyang nakasaad sa lisensya</string>
+
+    <string name="tquestion_35">Kung ang makasalubong mo ay may nakakasilaw na ilaw, ano ang dapat mong gawin?</string>
+
+    <string name="tquestion35_A">Silawin din ang nakasalubong</string>
+    <string name="tquestion35_B">Titigan ang nakakasilaw ng ilaw</string>
+    <string name="tquestion35_C">Tumingin ng bahagya sa gawing kanan ng kalsada</string>
+    <string name="tquestion35_D">huminto</string>
+    <string name="tanswer_35">Tumingin ng bahagya sa gawing kanan ng kalsada</string>
+
+    <string name="tquestion_36">Ano ang kahulugan ng senyas trapikong kulay pula na tatsulok ang hugis?</string>
+
+    <string name="tquestion36_A">Nagtatakda</string>
+    <string name="tquestion36_B">Nagbibigay babala</string>
+    <string name="tquestion36_C">Nagbibigay impormasyon</string>
+    <string name="tquestion36_D">Nagbibigay alam</string>
+    <string name="tanswer_36">Nagbibigay babala</string>
+
+    <string name="tquestion_37">Ano ang kahulugan ng senyas trapikong kulay pula na pabilog, octagon o baligtad tatsulok?</string>
+
+    <string name="tquestion37_A">Nagbibigay babala</string>
+    <string name="tquestion37_B">Nagtatakda o nagbabawal</string>
+    <string name="tquestion37_C">Nag-uutos ng direksyon</string>
+    <string name="tquestion37_D">Nagbibigay impormasyon</string>
+    <string name="tanswer_37">Nagbibigay babala</string>
+
+    <string name="tquestion_38">Ano ang kahulugan ng senyas trapikong kulay asul at puti na pabilog ang hugis?</string>
+
+    <string name="tquestion38_A">Nagbibigay direksyon </string>
+    <string name="tquestion38_B">Nagbibigay impormasyon </string>
+    <string name="tquestion38_C">Tama A at B</string>
+    <string name="tquestion38_D">Walang nabangit</string>
+    <string name="tanswer_38">Tama A at B</string>
+
+    <string name="tquestion_39">Ano ang kahulugan ng senyas trapikong asul at puti na parihaba o parisukat ang hugis?</string>
+
+    <string name="tquestion39_A">Nag-uutos ng direkson</string>
+    <string name="tquestion39_B">Nagbibigay babala</string>
+    <string name="tquestion39_C">Nagbibigay impormasyon</string>
+    <string name="tquestion39_D">Nagbibigay alam</string>
+    <string name="tanswer_39">Nagbibigay impormasyon</string>
+
+    <string name="tquestion_40">Ano ang kahulugan ng berdeng Ilaw trapiko</string>
+
+    <string name="tquestion40_A">Sensyas upang patakbuhin ang sasakyan</string>
+    <string name="tquestion40_B">Huminto sa nakatakdang linya</string>
+    <string name="tquestion40_C">Maaari kang tumuloy bagalan lang ang takbo</string>
+    <string name="tquestion40_D">Mag handa pagpatakbo</string>
+    <string name="tanswer_40">Sensyas upang patakbuhin ang sasakyan</string>
+
+
+    <string name="tquestion_41">Ano ang kahulugan ng dilaw na signal trapiko?</string>
+
+    <string name="tquestion41_A">Huminto</string>
+    <string name="tquestion41_B">Maaari kang tumuloy, bagalan lamang ang pagtakbo</string>
+    <string name="tquestion41_C">Humanda sa paghinto at malapit ng sumindi ang ilaw na pula</string>
+    <string name="tquestion41_D">Maaari kang tumuloy bagalan lang ang takbo</string>
+    <string name="tanswer_41">Humanda sa paghinto at malapit ng sumindi ang ilaw na pula</string>
+
+
+    <string name="tquestion_42">Ano ang kahulugan ng berdeng signal trapiko?</string>
+
+    <string name="tquestion42_A">Mag handa pagpatakbo</string>
+    <string name="tquestion42_B">Bagalan ang pagtakbo</string>
+    <string name="tquestion42_C">Huminto</string>
+    <string name="tquestion42_D">Patakbuhin ng tuloy-tuloy ang sasakyan</string>
+    <string name="tanswer_42">Patakbuhin ng tuloy-tuloy ang sasakyan</string>
+
+
+    <string name="tquestion_43">Ano ang ibig sabihin ng berdeng “arrow” signal ng trapiko?</string>
+
+    <string name="tquestion43_A">Hindi pinayagan ang pagpasok sa interseksyon na itinuturo ng palaso</string>
+    <string name="tquestion43_B">Nagpapahintulot sa mga sasakyan na kumaliwa at kumanan</string>
+    <string name="tquestion43_C">Nagpapahintulot sa pagtawid ng mga taong tatawid</string>
+    <string name="tquestion43_D">Maaari kang tumuloy bagalan lang ang takbo</string>
+    <string name="tanswer_43">Nagpapahintulot sa mga sasakyan na kumaliwa at kumanan</string>
+
+
+    <string name="tquestion_44">Ano ang ibig sabihin ng dilaw na “arrow” signal na trapiko?</string>
+
+    <string name="tquestion44_A">Hindi pinayagan ang pagpasok sa interseksyon na itinuturo ng palaso</string>
+    <string name="tquestion44_B">Nagpapahintulot sa mga sasakyan na kumaliwa at kumanan</string>
+    <string name="tquestion44_C">Nagpapahintulot sa pagtawid ng mga taong tatawid</string>
+    <string name="tquestion44_D"> pinpayagan ang pagpasok sa interseksyon na itinuturo ng palaso</string>
+    <string name="tanswer_44">Nagpapahintulot sa mga sasakyan na kumaliwa at kumanan</string>
+
+
+    <string name="tquestion_45">Ang puting linya sa daan ay</string>
+
+    <string name="tquestion45_A">naghahati sa mga "lanes" na tumatakbo sa isang direksyon</string>
+    <string name="tquestion45_B">Hindi naghihiwalay sa trapiko na tumatakbo sa isang direksyonr</string>
+    <string name="tquestion45_C">palatandaan na maaring lumusot ng pakanan o pakaliwa</string>
+    <string name="tquestion45_D">naghihiwalay sa trapiko na tumatakbo sa isang direksyon</string>
+    <string name="tanswer_45">naghihiwalay sa trapiko na tumatakbo sa isang direksyon</string>
+
+
+    <string name="tquestion_46">Ang dilaw na linyang putol-putol at palatandaan na:</string>
+
+    <string name="tquestion46_A">hindi pinapayagan ang paglusot sa kanan</string>
+    <string name="tquestion46_B">pinapayagan ang paglusot sa kanan</string>
+    <string name="tquestion46_C">pinapayagan ang paglusot sa kaliwa</string>
+    <string name="tquestion46_D">ipinagbabawal ang paglusot sa kanan o kaliwa</string>
+    <string name="tanswer_46">pinapayagan ang paglusot sa kaliwa</string>
+
+
+    <string name="tquestion_47">Ang dilaw na linyang tuloy-tuloy ay palatandaan na</string>
+
+    <string name="tquestion47_A">maaaring lumusot pakanan</string>
+    <string name="tquestion47_B">maaaring lumusot pakaliwa</string>
+    <string name="tquestion47_C">peligroso ang lumusot sa pakanan</string>
+    <string name="tquestion47_D">Wala nabangit</string>
+    <string name="tanswer_47">peligroso ang lumusot sa pakanan</string>
+
+
+    <string name="tquestion_48">Ang puting linyang putol-putol ay palatandaan na</string>
+
+    <string name="tquestion48_A">16 years old</string>
+    <string name="tquestion48_B">17 years old</string>
+    <string name="tquestion48_C">18 years old</string>
+    <string name="tquestion48_D">19 years old</string>
+    <string name="tanswer_48">17 years old</string>
+
+
+    <string name="tquestion_49">Ang dalawang dilaw na linya na tuloy-tuloy ay palatandaan na</string>
+
+    <string name="tquestion49_A">Bawal lumusot kailanman</string>
+    <string name="tquestion49_B">Pwede lumusot kailanman</string>
+    <string name="tquestion49_C">bawal lumiko</string>
+    <string name="tquestion49_D">pwede lumiko</string>
+    <string name="tanswer_49">Bawal lumusot kailanman</string>
+
+
+    <string name="tquestion_50">Ang kailangang gulang ng aplikante para sa “Professional Driver’s License” ay:</string>
+
+    <string name="tquestion50_A">16 taong gulang</string>
+    <string name="tquestion50_B">17 taong gulang</string>
+    <string name="tquestion50_C">18 taong gulang</string>
+    <string name="tquestion50_D">21 taong gulangr</string>
+    <string name="tanswer_50">18 taong gulang</string>
+
+
+    <string name="tquestion_51">Sa highway kung nais mong magpatakbo ng mabagal kaysa iba, dapat kang gumawi sa</string>
+
+    <string name="tquestion51_A">Pinakakanang bahagi ng kalye</string>
+    <string name="tquestion51_B">Pinakakaliwa bahagi ng kalye</string>
+    <string name="tquestion51_C">gitna bahagi ng kalye</string>
+    <string name="tquestion51_D">Walang nabangitr</string>
+    <string name="tanswer_51">Pinakakanang bahagi ng kalye</string>
+
+
+    <string name="tquestion_52">Ang pinakaligtas na tulin ng isang sasakyan ay naaayon sa</string>
+
+    <string name="tquestion52_A">kondisyon ng kalsada at panahon</string>
+    <string name="tquestion52_B">kakayahan ng sasakyan</string>
+    <string name="tquestion52_C">kakayahang magmaneho ng drayber</string>
+    <string name="tquestion52_D">Walang nabangit</string>
+    <string name="tanswer_52">kondisyon ng kalsada at panahon</string>
+
+
+    <string name="tquestion_53">Ang isang drayber ay itinuturing na propesyonal kung</string>
+
+    <string name="tquestion53_A">kaya niyang magmaneho ng kahit anong uri ng sasakyan</string>
+    <string name="tquestion53_B">siya ay unuupahan o binabayaran sa pagmamaneho ng sasakyang pribado o pampasahero</string>
+    <string name="tquestion53_C">Tama ang A at Br</string>
+    <string name="tquestion53_D">Walang nabangit</string>
+    <string name="tanswer_53">siya ay unuupahan o binabayaran sa pagmamaneho ng sasakyang pribado o pampasahero</string>
+
+
+    <string name="tquestion_54">Kailangan mag bigay ng senyas kung kakanan o kakaliwa sa daratnang intersekyon sa layong</string>
+
+    <string name="tquestion54_A">10 m</string>
+    <string name="tquestion54_B">15 m</string>
+    <string name="tquestion54_C">20 m</string>
+    <string name="tquestion54_D">30 m</string>
+    <string name="tanswer_54">30 m</string>
+
+    <string name="tquestion_55">Ang ligtas na alintuntunin kahit nakatitiyak na ikaw ang may karapatan sa ay</string>
+
+    <string name="tquestion55_A">huwag ipilit ang karapatan</string>
+    <string name="tquestion55_B">bumusina</string>
+    <string name="tquestion55_C">laging ipilit ang karapatan</string>
+    <string name="tquestion55_D">Sigawan</string>
+    <string name="tanswer_55">huwag ipilit ang karapatan</string>
+
+    <string name="tquestion_56">Ano ang kahulugan ng senyas trapiko na kulay asul?</string>
+
+    <string name="tquestion56_A">Nag-uutos ng direkson</string>
+    <string name="tquestion56_B">Nagbibigay babala</string>
+    <string name="tquestion56_C">Nagbibigay impormasyon</string>
+    <string name="tquestion56_D">Walang nabangit</string>
+    <string name="tanswer_56">Nagbibigay impormasyon</string>
+
+    <string name="tquestion_57">Ipinagbabawal ang paglusot (overtaking) sa paanan ng tulay sapagkat</string>
+
+    <string name="tquestion57_A">makipot ang tulay</string>
+    <string name="tquestion57_B">mapanganib at hindi nakikita ang sasakyang kasalubong</string>
+    <string name="tquestion57_C">Madulas ang daan</string>
+    <string name="tquestion57_D">may mga tumatawid</string>
+    <string name="tanswer_57">mapanganib at hindi nakikita ang sasakyang kasalubong</string>
+
+    <string name="tquestion_58">Kailan dapat magdesisyon ang drayber?</string>
+
+    <string name="tquestion58_A">Kung buhol-buhol na ang trapiko</string>
+    <string name="tquestion58_B">Kung mahusay syang magmaneho</string>
+    <string name="tquestion58_C">Habang siya ay nagmamaneho</string>
+    <string name="tquestion58_D">Walang nabangit</string>
+    <string name="tanswer_58">Habang siya ay nagmamaneho</string>
+
+    <string name="tquestion_59">Saang lugar hindi ka dapat lumusot (overtake)?</string>
+
+    <string name="tquestion59_A">Tama ang B at C sagot</string>
+    <string name="tquestion59_B">Sa mga sangandaan o interseksyon</string>
+    <string name="tquestion59_C">Sa paanan ng tulay</string>
+    <string name="tquestion59_D">Walang tama na sagot</string>
+    <string name="tanswer_59">Tama ang B at C sagot</string>
+
+    <string name="tquestion_60">Ang busina ay ginagamit upang</string>
+
+    <string name="tquestion60_A">makalikha ng ingay</string>
+    <string name="tquestion60_B">iparinig na maganda ang tunog ng busina</string>
+    <string name="tquestion60_C">makapagbigay babala ng kaligtasan o pag-iingat</string>
+    <string name="tquestion60_D">Mang Inis sa mga tao nag lalakad</string>
+    <string name="tanswer_60">makapagbigay babala ng kaligtasan o pag-iingat</string>
+
+    <!-- Professional Exam -->
+
+
+    <string name="pquestion_1">Having a driver’s license is a</string>
+
+    <string name="pquestion1_A">an honor</string>
+    <string name="pquestion1_B">a right</string>
+    <string name="pquestion1_C">a wrong</string>
+    <string name="pquestion1_D">a privilege</string>
+    <string name="panswer_1">a privilege</string>
+
+    <string name="pquestion_2">A Public Utility Vehicle can only be driven by a holder of a</string>
+
+    <string name="pquestion2_A">Caution or warning sign</string>
+    <string name="pquestion2_B">professional license</string>
+    <string name="pquestion2_C">non-professional license</string>
+    <string name="pquestion2_D">non of the above </string>
+    <string name="panswer_2">professional license </string>
+
+    <string name="pquestion_3">The license of a Public Utility Vehicle driver who refuses to convey passengers shall be</string>
+
+    <string name="pquestion3_A">fine of ₱1, 000</string>
+    <string name="pquestion3_B">fine of ₱2, 000</string>
+    <string name="pquestion3_C">fine of ₱5, 000</string>
+    <string name="pquestion3_D">Confiscated and suspended</string>
+    <string name="panswer_3">Confiscated and suspended</string>
+
+
+    <string name="pquestion_4">At rotundas or roundabouts which of the following vehicleshave the right of way?</string>
+
+    <string name="pquestion4_A">The vehicles facing the yellow light</string>
+    <string name="pquestion4_B">The vehicles already in the roundabout</string>
+    <string name="pquestion4_C">The vehicles facing the Red light</string>
+    <string name="pquestion4_D">The vehicles facing the Green light</string>
+    <string name="panswer_4">The vehicles already in the roundabout</string>
+
+
+    <string name="pquestion_5">A pre-trip inspection should be completed</string>
+
+    <string name="pquestion5_A">before and after operating the motor vehicle</string>
+    <string name="pquestion5_B">after operating the motor vehicle</string>
+    <string name="pquestion5_C">Overtake by passing over the single yellow line</string>
+    <string name="pquestion5_D">before operating the motor vehicle</string>
+    <string name="panswer_5">before operating the motor vehicle</string>
+
+
+    <string name="pquestion_6">The vehicle you are driving is stalled on a two-way (opposite direction) highway, you should place the Early Warning Device (EWD)</string>
+
+    <string name="pquestion6_A">2 meters at the back and front of the stalled vehicle</string>
+    <string name="pquestion6_B">4 meters at the back and front of the stalled vehicle </string>
+    <string name="pquestion6_C">6 meters at the back and front of the stalled vehicle</string>
+    <string name="pquestion6_D">8 meters at the back and front of the stalled vehicle</string>
+    <string name="panswer_6">4 meters at the back and front of the stalled vehicle </string>
+
+
+    <string name="pquestion_7">When a heavy fog occurs, you should</string>
+
+    <string name="pquestion7_A">park at a rest area or vehicle stop until the fog has lifted.</string>
+    <string name="pquestion7_B">drive slowly and turn on the headlights</string>
+    <string name="pquestion7_C">turn on your headlights and switch on the windshield wipers</string>
+    <string name="pquestion7_D">drive faster</string>
+    <string name="panswer_7">park at a rest area or vehicle stop until the fog has lifted.</string>
+
+
+    <string name="pquestion_8">It is illegal to park: </string>
+
+    <string name="pquestion8_A">within 2 meters of a fire hydrant and within 3 meters from the intersection</string>
+    <string name="pquestion8_B">within 4 meters of a fire hydrant and within 6 meters from the intersection </string>
+    <string name="pquestion8_C">within 6 meters of a fire hydrant and within 9 meters from the intersection</string>
+    <string name="pquestion8_D">within 8 meters of a fire hydrant and within 12 meters from the intersection</string>
+    <string name="panswer_8">within 4 meters of a fire hydrant and within 6 meters from the intersection</string>
+
+
+    <string name="pquestion_9">Before making a turn, the driver should use the turn signal at what distance?</string>
+
+    <string name="pquestion9_A">10 meters</string>
+    <string name="pquestion9_B">20 meters</string>
+    <string name="pquestion9_C">30 meters</string>
+    <string name="pquestion9_D">40 meters</string>
+    <string name="panswer_9">30 meters</string>
+
+    <string name="pquestion_10">When are you permitted to double park?</string>
+
+    <string name="pquestion10_A">Never</string>
+    <string name="pquestion10_B">Maybe</string>
+    <string name="pquestion10_C">Yes</string>
+    <string name="pquestion10_D">It\'s okay</string>
+    <string name="panswer_10">Never</string>
+
+
+    <string name="pquestion_11">Single with broken line on a two-lane road means</string>
+
+    <string name="pquestion11_A">Consult your doctor about the effects before driving</string>
+    <string name="pquestion11_B">Consult your police about the effects before driving</string>
+    <string name="pquestion11_C">Consult your MMDA about the effects before driving</string>
+    <string name="pquestion11_D">Consult your HPG about the effects before driving</string>
+    <string name="panswer_11">Consult your doctor about the effects before driving</string>
+
+    <string name="pquestion_12">You are preparing to exit an expressway, when should you start reducing speed?</string>
+
+    <string name="pquestion12_A">immediately before entering the deceleration lane</string>
+    <string name="pquestion12_B">immediately upon entering the deceleration lane</string>
+    <string name="pquestion12_C">immediately upon spotting the deceleration lane</string>
+    <string name="pquestion12_D">non of the above </string>
+    <string name="panswer_12">immediately upon entering the deceleration lane</string>
+
+    <string name="pquestion_13">Driving an unregistered motor vehicle is a violation with a fine of</string>
+
+    <string name="pquestion13_A">Php 10, 000</string>
+    <string name="pquestion13_B">Php 15, 000</string>
+    <string name="pquestion13_C">Php 13, 000</string>
+    <string name="pquestion13_D">Php 12, 000</string>
+    <string name="panswer_13">Php 10, 000</string>
+
+    <string name="pquestion_14">Considered a parking violation?</string>
+
+    <string name="pquestion14_A">Parking within 15 meters from a signalized intersect</string>
+    <string name="pquestion14_B">Parking within 3 meters from a signalized intersect</string>
+    <string name="pquestion14_C">Parking within 10 meters from a signalized intersect</string>
+    <string name="pquestion14_D">Parking within 5 meters from a signalized intersect</string>
+    <string name="panswer_14">Parking within 5 meters from a signalized intersect</string>
+
+    <string name="pquestion_15">Green light at an intersection means</string>
+
+    <string name="pquestion15_A">Stop and yield to pedestrians</string>
+    <string name="pquestion15_B">Pedestrians are allowed to cross the pedestrian lane</string>
+    <string name="pquestion15_C">Pedestrians are not allowed to cross the pedestrian lane</string>
+    <string name="pquestion15_D">Go and yield to pedestrians</string>
+    <string name="panswer_15">Pedestrians are allowed to cross the pedestrian lane</string>
+
+    <string name="pquestion_16">Flashing yellow light means</string>
+
+    <string name="pquestion16_A">Proceed through the intersection with caution</string>
+    <string name="pquestion16_B">Do not proceed through the intersection with caution</string>
+    <string name="pquestion16_C">Slow down and yield the right of way to any vehicle in the intersection</string>
+    <string name="pquestion16_D">Continue to the next intersection to make the desired turn</string>
+    <string name="panswer_16">Proceed through the intersection with caution</string>
+
+    <string name="pquestion_17">The minimum distance away from the vehicle you are following is</string>
+
+    <string name="pquestion17_A">1 car length</string>
+    <string name="pquestion17_B">2 car length</string>
+    <string name="pquestion17_C">3 car length</string>
+    <string name="pquestion17_D">4 car length</string>
+    <string name="panswer_17">1 car length</string>
+
+    <string name="pquestion_18">When do you have a complete/full stop</string>
+
+    <string name="pquestion18_A">At a red traffic light</string>
+    <string name="pquestion18_B">At a yellow traffic light</string>
+    <string name="pquestion18_C">At a green traffic light</string>
+    <string name="pquestion18_D">None of the above</string>
+    <string name="panswer_18">At a red traffic light</string>
+
+
+    <string name="pquestion_19">On a two-lane road, overtaking is only allowed only at the</string>
+
+    <string name="pquestion19_A">Next lane</string>
+    <string name="pquestion19_B">Right lane</string>
+    <string name="pquestion19_C">Left lane</string>
+    <string name="pquestion19_D">One lane only</string>
+    <string name="panswer_19">Left lane</string>
+
+
+    <string name="pquestion_20">Parking is considered as a violation when a motor vehicle</string>
+
+    <string name="pquestion20_A">Park at the entrance and exit of hospital and fire station</string>
+    <string name="pquestion20_B">Park at the entrance and exit of school and police station</string>
+    <string name="pquestion20_C">Park at the entrance and exit of church and colosseum </string>
+    <string name="pquestion20_D">Park at the entrance and exit of park and mall </string>
+    <string name="panswer_20">Park at the entrance and exit of hospital and fire station</string>
+
+
+    <string name="pquestion_21">Parking is prohibited</string>
+
+    <string name="pquestion21_A">Approach to intersection</string>
+    <string name="pquestion21_B">Within an intersection</string>
+    <string name="pquestion21_C">Slow down and yield the right of way to any vehicle in the intersection</string>
+    <string name="pquestion21_D">Continue to the next intersection to make the desired turn</string>
+    <string name="panswer_21">Within an intersection</string>
+
+
+    <string name="pquestion_22">On a wet road, you must</string>
+
+    <string name="pquestion22_A">Ignore it</string>
+    <string name="pquestion22_B">You can speed high</string>
+    <string name="pquestion22_C">Slippery road</string>
+    <string name="pquestion22_D">Slow down</string>
+    <string name="panswer_22">Slow down</string>
+
+
+    <string name="pquestion_23">When parking uphill without a curb, turn your wheels</string>
+
+    <string name="pquestion23_A">Towards the edge of the road</string>
+    <string name="pquestion23_B">Downwards the edge of the road</string>
+    <string name="pquestion23_C">Slowdown the edge of the road</string>
+    <string name="pquestion23_D">Turn your wheels to curb</string>
+    <string name="panswer_23">Towards the edge of the road</string>
+
+
+    <string name="pquestion_24">When parking downhill, you must;</string>
+
+    <string name="pquestion24_A">Turn your wheels away from the curb</string>
+    <string name="pquestion24_B">Turn your wheels to curb</string>
+    <string name="pquestion24_C">Towards the edge of the road</string>
+    <string name="pquestion24_D">Downwards the edge of the road</string>
+    <string name="panswer_24">Turn your wheels to curb</string>
+
+
+    <string name="pquestion_25">Whenever you are driving, especially when overtaking</string>
+
+    <string name="pquestion25_A">Slow down gradually and give him the signal to overtake you</string>
+    <string name="pquestion25_B">Overtake another vehicle from a tailgating position</string>
+    <string name="pquestion25_C">Turn your wheels away from the curb</string>
+    <string name="pquestion25_D">Never overtake another vehicle from a tailgating position</string>
+    <string name="panswer_25">Never overtake another vehicle from a tailgating position</string>
+
+
+    <string name="pquestion_26">When driving on a highway, do not stare at the vehicle in front of you, instead you should</string>
+
+    <string name="pquestion26_A">Extend your scanning distance to about 15 seconds beyond the front of your vehicle</string>
+    <string name="pquestion26_B">Extend your scanning distance to about 5 seconds beyond the front of your vehicle</string>
+    <string name="pquestion26_C">Extend your scanning distance to about 12 seconds beyond the front of your vehicle</string>
+    <string name="pquestion26_D">Extend your scanning distance to about 30 seconds beyond the front of your vehicle</string>
+    <string name="panswer_26">Extend your scanning distance to about 12 seconds beyond the front of your vehicle</string>
+
+
+    <string name="pquestion_27">When driving on mountain roads during daytime, you should</string>
+
+    <string name="pquestion27_A">Ignore it</string>
+    <string name="pquestion27_B">Blow your horn every 1 minute</string>
+    <string name="pquestion27_C">blow your horn when you think it\'s necessary.</string>
+    <string name="pquestion27_D">Blow your horn when approaching a blind curve</string>
+    <string name="panswer_27">Blow your horn when approaching a blind curve</string>
+
+
+    <string name="pquestion_28">It refers to an act penalizing person under the influence of alcohol, dangerous drugs, and similar substances, and for other purpose.</string>
+
+    <string name="pquestion28_A">R.A. No. 70586</string>
+    <string name="pquestion28_B">R.A. No. 10586</string>
+    <string name="pquestion28_C">R.A. No. 60586</string>
+    <string name="pquestion28_D">R.A. No. 40586</string>
+    <string name="panswer_28">R.A. No. 10586</string>
+
+
+    <string name="pquestion_29">The headlights should be used often as needed to</string>
+
+    <string name="pquestion29_A">Always turn your headlights on</string>
+    <string name="pquestion29_B">make your intentions known to drivers around you</string>
+    <string name="pquestion29_C">Make your intentions known to drivers around you</string>
+    <string name="pquestion29_D">to signal to other drivers you have the right of way</string>
+    <string name="panswer_29">Make your intentions known to drivers around you</string>
+
+    <string name="pquestion_30">When driving downhill on a mountain road always</string>
+
+    <string name="pquestion30_A">Turn Off the engine</string>
+    <string name="pquestion30_B">Shift to low gear so the engine braking action can help you control your speed</string>
+    <string name="pquestion30_C">Be always prepared to hit the brakes</string>
+    <string name="pquestion30_D">Blow your horn every 1 minute</string>
+    <string name="panswer_30">Shift to low gear so the engine braking action can help you control your speed</string>
+
+
+    <string name="pquestion_31">When negotiating a curve on a highway at a relatively high speed you should</string>
+
+    <string name="pquestion31_A">maintain speed to avoid accidents from drivers behind you</string>
+    <string name="pquestion31_B">You can speed high</string>
+    <string name="pquestion31_C">Decrease your speed further as you enter the curve</string>
+    <string name="pquestion31_D">increase your speed so you won\'t violate minimum speed limits</string>
+    <string name="panswer_31">Decrease your speed further as you enter the curve</string>
+
+
+    <string name="pquestion_32">One that affects your visibility?</string>
+
+    <string name="pquestion32_A">Defective or dirty headlights</string>
+    <string name="pquestion32_B">Rainy road</string>
+    <string name="pquestion32_C">Foggy road</string>
+    <string name="pquestion32_D">Poor road lighting</string>
+    <string name="panswer_32">Defective or dirty headlights</string>
+
+    <string name="pquestion_33">At night, you should never drive at a speed which would prevent you from stopping within the distance:</string>
+
+    <string name="pquestion33_A">of 270 feet</string>
+    <string name="pquestion33_B">of 170 feet</string>
+    <string name="pquestion33_C">you can\'t see in your headlights</string>
+    <string name="pquestion33_D">of a 4 car-lengths</string>
+    <string name="panswer_33">you can\'t see in your headlights</string>
+
+    <string name="pquestion_34">When driving at night, you should</string>
+
+    <string name="pquestion34_A">Always turn your headlights on</string>
+    <string name="pquestion34_B">You can use parking light</string>
+    <string name="pquestion34_C">High the light</string>
+    <string name="pquestion34_D">Beam the light</string>
+    <string name="panswer_34">Always turn your headlights on</string>
+
+    <string name="pquestion_35">A single solid yellow or white line means</string>
+
+    <string name="pquestion35_A">Passing/overtaking is allowed to</string>
+    <string name="pquestion35_B">Passing/overtaking is not allowed</string>
+    <string name="pquestion35_C">Slow down gradually and give him the signal to overtake you</string>
+    <string name="pquestion35_D">None ov the above</string>
+    <string name="panswer_35">Passing/overtaking is not allowed</string>
+
+    <string name="pquestion_36">Passing/overtaking is allowed</string>
+
+    <string name="pquestion36_A">on highway with solid yellow lines</string>
+    <string name="pquestion36_B">on highway with at least 60kph speed limit</string>
+    <string name="pquestion36_C">on highway with two or more lanes</string>
+    <string name="pquestion36_D">Crossbuck</string>
+    <string name="panswer_36">on highway with two or more lanes</string>
+
+    <string name="pquestion_37">A driver on a highway shall yield the right of way to</string>
+
+    <string name="pquestion37_A">driver on a highway shall yield the right of way to:</string>
+    <string name="pquestion37_B">Pedestrians crossing within a crosswalk</string>
+    <string name="pquestion37_C">police, fire department vehicles, and ambulances when such vehicles are on official business</string>
+    <string name="pquestion37_D">politicians when such vehicles are on official business</string>
+    <string name="panswer_37">Pedestrians crossing within a crosswalk</string>
+
+    <string name="pquestion_38">This traffic signs warns you that school children may be present in the vicinity</string>
+
+    <string name="pquestion38_A">Square it</string>
+    <string name="pquestion38_B">Triangle</string>
+    <string name="pquestion38_C">Circle</string>
+    <string name="pquestion38_D">Pentagon</string>
+    <string name="panswer_38">Pentagon</string>
+
+    <string name="pquestion_39">A flashing red light means</string>
+
+    <string name="pquestion39_A">Slow down, then go on safely</string>
+    <string name="pquestion39_B">Stop, then proceed if it is safe</string>
+    <string name="pquestion39_C">Wait for the yellow light</string>
+    <string name="pquestion39_D">You can go</string>
+    <string name="panswer_39">Stop, then proceed if it is safe</string>
+
+    <string name="pquestion_40">The signal warns of a hazard ahead</string>
+
+    <string name="pquestion40_A">Circlet</string>
+    <string name="pquestion40_B">Triangle</string>
+    <string name="pquestion40_C">Diamond</string>
+    <string name="pquestion40_D">Square</string>
+    <string name="panswer_40">Diamond</string>
+
+
+    <string name="pquestion_41">This traffic sign states directions and distances</string>
+
+    <string name="pquestion41_A">Cautions or warning signs</string>
+    <string name="pquestion41_B">Directional sign</string>
+    <string name="pquestion41_C">Regulatory sign</string>
+    <string name="pquestion41_D">Informative signs</string>
+    <string name="panswer_41">Informative signs</string>
+
+
+    <string name="pquestion_42">Children must be held in approved child restraint if they are</string>
+
+    <string name="pquestion42_A">6 years old and below</string>
+    <string name="pquestion42_B">7 years old and below</string>
+    <string name="pquestion42_C">8 years old and below</string>
+    <string name="pquestion42_D">10 years old and below</string>
+    <string name="panswer_42">6 years old and below</string>
+
+
+    <string name="pquestion_43">Seat belts must be worn by children aged</string>
+
+    <string name="pquestion43_A">5 years old and above</string>
+    <string name="pquestion43_B">6 years old and above</string>
+    <string name="pquestion43_C">7 years old and above</string>
+    <string name="pquestion43_D">8 years old and above</string>
+    <string name="panswer_43">7 years old and above</string>
+
+
+    <string name="pquestion_44">The Temporary Operators Permit (TOP) authorizes the apprehended driver to operate motor vehicle for a period not exceeding</string>
+
+    <string name="pquestion44_A">12 hours</string>
+    <string name="pquestion44_B">72 hours</string>
+    <string name="pquestion44_C">24 hours</string>
+    <string name="pquestion44_D">48 hours</string>
+    <string name="panswer_44">72 hours</string>
+
+
+    <string name="pquestion_45">A red flag or red light must be attached to any load that extends over</string>
+
+    <string name="pquestion45_A">One meter from the back of the car</string>
+    <string name="pquestion45_B">Two meters from the back of the car</string>
+    <string name="pquestion45_C">Three meters from the back of the car</string>
+    <string name="pquestion45_D">Four meters from the back of the car</string>
+    <string name="panswer_45">One meter from the back of the car</string>
+
+
+    <string name="pquestion_46">In adverse driving conditions, the 2-second rule should be increased to</string>
+
+    <string name="pquestion46_A">2-second rule</string>
+    <string name="pquestion46_B">3-second rule</string>
+    <string name="pquestion46_C">4-second rule</string>
+    <string name="pquestion46_D">5-second rule</string>
+    <string name="panswer_46">4-second rule</string>
+
+
+    <string name="pquestion_47">When a vehicle starts to skid, what should the driver do</string>
+
+    <string name="pquestion47_A">Immediately step on the brakes</string>
+    <string name="pquestion47_B">Hold firmly on to the wheel while slowing down the vehicle</string>
+    <string name="pquestion47_C">Turn the wheels tp the opposite the direction of the skid</string>
+    <string name="pquestion47_D">Continuously as they drive</string>
+    <string name="panswer_47">Hold firmly on to the wheel while slowing down the vehicle</string>
+
+
+    <string name="pquestion_48">To obtain one’s driver’s license, one must be at least</string>
+
+    <string name="pquestion48_A">16 years old</string>
+    <string name="pquestion48_B">17 years old</string>
+    <string name="pquestion48_C">18 years old</string>
+    <string name="pquestion48_D">19 years old</string>
+    <string name="panswer_48">17 years old</string>
+
+
+    <string name="pquestion_49">If a driver is driving too fast into a curve, he</string>
+
+    <string name="pquestion49_A">Should slam the brakes when the needed</string>
+    <string name="pquestion49_B">Should not pull the handbrake</string>
+    <string name="pquestion49_C">Should not slam the brakes</string>
+    <string name="pquestion49_D">Should not slam the Accelerator</string>
+    <string name="panswer_49">should not slam the brakes</string>
+
+
+    <string name="pquestion_50">Never park or stop at the side of the road with a fire hydrant</string>
+
+    <string name="pquestion50_A">5 meter</string>
+    <string name="pquestion50_B">10 meter</string>
+    <string name="pquestion50_C">15 meter road</string>
+    <string name="pquestion50_D">20 meter</string>
+    <string name="panswer_50">5 meter</string>
+
+
+    <string name="pquestion_51">A driver must park within the curb by putting the car in low gear and setting the parking brake for at least</string>
+
+    <string name="pquestion51_A">15 centimeter</string>
+    <string name="pquestion51_B">20 centimeter</string>
+    <string name="pquestion51_C">30 centimeter</string>
+    <string name="pquestion51_D">40 centimeter</string>
+    <string name="panswer_51">30 centimeter</string>
+
+
+    <string name="pquestion_52">In bad conditions, the 2-second rule should be increased to</string>
+
+    <string name="pquestion52_A">3 seconds</string>
+    <string name="pquestion52_B">4 seconds</string>
+    <string name="pquestion52_C">5 seconds</string>
+    <string name="pquestion52_D">6 seconds</string>
+    <string name="panswer_52">4 seconds</string>
+
+
+    <string name="pquestion_53">Close should another car before dim your headlights?</string>
+
+    <string name="pquestion53_A">100 meter</string>
+    <string name="pquestion53_B">150 meter</string>
+    <string name="pquestion53_C">200 meter</string>
+    <string name="pquestion53_D">250 meter</string>
+    <string name="panswer_53">150 meter</string>
+
+
+    <string name="pquestion_54">What should you do before turning left or right?</string>
+
+    <string name="pquestion54_A">Abruptly turn left and sound your horn</string>
+    <string name="pquestion54_B">Don\'t bother giving a signal</string>
+    <string name="pquestion54_C">Give a signal while no less than 30 meters before turning</string>
+    <string name="pquestion54_D">Give a signal while no less than 60 meters before turning</string>
+    <string name="panswer_54">Give a signal while no less than 30 meters before turning</string>
+
+    <string name="pquestion_55">If a driver passes a blind person, he</string>
+
+    <string name="pquestion55_A">Should not flash his head lights</string>
+    <string name="pquestion55_B">Should not sound his horn</string>
+    <string name="pquestion55_C">Should reduce his speed</string>
+    <string name="pquestion55_D">Should not be crossed anytime</string>
+    <string name="panswer_55">should not sound his horn</string>
+
+    <string name="pquestion_56">A steady red cross means</string>
+
+    <string name="pquestion56_A">You cannot drive on this lane</string>
+    <string name="pquestion56_B">Proceed with caution</string>
+    <string name="pquestion56_C">You can drive on this lane with caution</string>
+    <string name="pquestion56_D">No entry for all types of vehicles</string>
+    <string name="panswer_56">You cannot drive on this lane</string>
+
+    <string name="pquestion_57">Before changing lanes you should make a signal, look at the rear-view and side-view mirrors and</string>
+
+    <string name="pquestion57_A">sound your horn</string>
+    <string name="pquestion57_B">Have a quick look over your shoulders to watch out for oncoming vehicles</string>
+    <string name="pquestion57_C">turn on the headlight</string>
+    <string name="pquestion57_D">Should not sound his horn</string>
+    <string name="panswer_57">Have a quick look over your shoulders to watch out for oncoming vehicles</string>
+
+    <string name="pquestion_58">To execute a safe turn, a motorcycle rider should always</string>
+
+    <string name="pquestion58_A">lean the motorcycle in the direction of the curve or turn</string>
+    <string name="pquestion58_B">be quick and alert in executing the turn</string>
+    <string name="pquestion58_C">lean the motorcycle in the other direction of the curve or turn</string>
+    <string name="pquestion58_D">Before operating the motor vehicle</string>
+    <string name="panswer_58">lean the motorcycle in the direction of the curve or turn</string>
+
+    <string name="pquestion_59">When a heavy fog occurs, you should</string>
+
+    <string name="pquestion59_A">Turn on your headlights and switch on the windshield wipers</string>
+    <string name="pquestion59_B">Drive slowly and turn on the headlights</string>
+    <string name="pquestion59_C">Park at a rest area or vehicle stop until the fog has lifted</string>
+    <string name="pquestion59_D">Slow down and proceed with caution</string>
+    <string name="panswer_59">Park at a rest area or vehicle stop until the fog has lifted</string>
+
+    <string name="pquestion_60">Before making a turn, the driver should use the turn signal at what distance</string>
+
+    <string name="pquestion60_A">10 meters</string>
+    <string name="pquestion60_B">20 meters</string>
+    <string name="pquestion60_C">30 meters</string>
+    <string name="pquestion60_D">40 meters</string>
+    <string name="panswer_60">30 meters</string>
+
+
+    <!-- PRo heavy-->
+
+    <string name="hquestion_1">Having a driver’s license is a</string>
+
+    <string name="hquestion1_A">an honor</string>
+    <string name="hquestion1_B">a right</string>
+    <string name="hquestion1_C">a wrong</string>
+    <string name="hquestion1_D">a privilege</string>
+    <string name="hanswer_1">a privilege</string>
+
+    <string name="hquestion_2">When you intend to turn right or left. Signal your intention at least</string>
+
+    <string name="hquestion2_A">Caution or warning sign</string>
+    <string name="hquestion2_B">Don\'t bother giving a signal</string>
+    <string name="hquestion2_C">Give a signal while no less than 30 meters before turning</string>
+    <string name="hquestion2_D">25 meters before you intend to make your turn </string>
+    <string name="hanswer_2">25 meters before you intend to make your turn </string>
+
+    <string name="hquestion_3">At an intersection with a traffic light, make a left turn only when</string>
+
+    <string name="hquestion3_A">The green light is on and there is a left turn light</string>
+    <string name="hquestion3_B">The red light is on and there is a left turn light</string>
+    <string name="hquestion3_C">The yellow light is on and there is a left turn light</string>
+    <string name="hquestion3_D">Non of the above</string>
+    <string name="hanswer_3">The green light is on and there is a left turn light</string>
+
+
+    <string name="hquestion_4">Graft and corruption in the traffic enforcement system can be eliminated by</string>
+
+    <string name="hquestion4_A">It separates traffic moving in opposite direction</string>
+    <string name="hquestion4_B">understanding the road and traffic rules and regulations</string>
+    <string name="hquestion4_C">self discipline by drivers and obeying traffic rules and regulations</string>
+    <string name="hquestion4_D">Non of the above</string>
+    <string name="hanswer_4">self discipline by drivers and obeying traffic rules and regulations</string>
+
+
+    <string name="hquestion_5">On a four (4) lane road with single white line, you can</string>
+
+    <string name="hquestion5_A">Overtake by passing over the solid white line</string>
+    <string name="hquestion5_B">Overtake by passing over the double yellow line</string>
+    <string name="hquestion5_C">Overtake by passing over the single yellow line</string>
+    <string name="hquestion5_D">Overtake by passing over the stop lane</string>
+    <string name="hanswer_5">Overtake by passing over the solid white line</string>
+
+
+    <string name="hquestion_6">Traffic jam can be prevented if you</string>
+
+    <string name="hquestion6_A">drive within speed limit</string>
+    <string name="hquestion6_B">Keep opposing lanes open </string>
+    <string name="hquestion6_C">drive faster</string>
+    <string name="hquestion6_D">Slowdown</string>
+    <string name="hanswer_6">Keep opposing lanes open </string>
+
+
+    <string name="hquestion_7">When making a U-turn you should</string>
+
+    <string name="hquestion7_A">increase speed to make the u-turn faster and safer</string>
+    <string name="hquestion7_B">check for traffic beside you and beat them to the spot</string>
+    <string name="hquestion7_C">Apply your brakes gently with steady pressure</string>
+    <string name="hquestion7_D">Check for traffic behind you and indicate your intentions with a left turn signal</string>
+    <string name="hanswer_7">Check for traffic behind you and indicate your intentions with a left turn signal</string>
+
+
+    <string name="hquestion_8">Signs that are triangular in shape and with a red colored border are called</string>
+
+    <string name="hquestion8_A">Regulatory signs</string>
+    <string name="hquestion8_B">Caution or warning sign </string>
+    <string name="hquestion8_C">Informative signs</string>
+    <string name="hquestion8_D">Make signal</string>
+    <string name="hanswer_8">Caution or warning sign</string>
+
+
+    <string name="hquestion_9">Signs that are round, inverted triangle or octagonal and with red colored boarders are called</string>
+
+    <string name="hquestion9_A">Regulatory signs</string>
+    <string name="hquestion9_B">Informative signs</string>
+    <string name="hquestion9_C">Caution or warning sign</string>
+    <string name="hquestion9_D">Make signal</string>
+    <string name="hanswer_9">Regulatory signs</string>
+
+    <string name="hquestion_10">When a driver of PUV refuses to render service, convey passengers, such violation is penalize with</string>
+
+    <string name="hquestion10_A">Fine of Php 1, 000</string>
+    <string name="hquestion10_B">Fine of Php 2, 000</string>
+    <string name="hquestion10_C">Fine of Php 3, 000</string>
+    <string name="hquestion10_D">Fine of Php 4, 000</string>
+    <string name="hanswer_10">Fine of Php 1, 000</string>
+
+
+    <string name="hquestion_11">Single with broken line on a two-lane road means</string>
+
+    <string name="hquestion11_A">It separates traffic moving in slow down directions</string>
+    <string name="hquestion11_B">It separates traffic moving in right directions</string>
+    <string name="hquestion11_C">It separates traffic moving in opposite directions</string>
+    <string name="hquestion11_D">It separates traffic moving in left directions</string>
+    <string name="hanswer_11">It separates traffic moving in opposite directions</string>
+
+    <string name="hquestion_12">What to do when you approach a crosswalk or pedestrian lane</string>
+
+    <string name="hquestion12_A">Stop and yield to pedestrians</string>
+    <string name="hquestion12_B">Pedestrians are not allowed to cross the pedestrian lanes</string>
+    <string name="hquestion12_C">Pedestrians crossing within a crosswalk</string>
+    <string name="hquestion12_D">Always exercise care for pedestrians and other road users around</string>
+    <string name="hanswer_12">Stop and yield to pedestrians</string>
+
+    <string name="hquestion_13">Driving an unregistered motor vehicle is a violation with a fine of</string>
+
+    <string name="hquestion13_A">Php 10, 000</string>
+    <string name="hquestion13_B">Php 15, 000</string>
+    <string name="hquestion13_C">Php 13, 000</string>
+    <string name="hquestion13_D">Php 12, 000</string>
+    <string name="hanswer_13">Php 10, 000</string>
+
+    <string name="hquestion_14">Considered a parking violation?</string>
+
+    <string name="hquestion14_A">Parking within 15 meters from a signalized intersect</string>
+    <string name="hquestion14_B">Parking within 3 meters from a signalized intersect</string>
+    <string name="hquestion14_C">Parking within 10 meters from a signalized intersect</string>
+    <string name="hquestion14_D">Parking within 5 meters from a signalized intersect</string>
+    <string name="hanswer_14">Parking within 5 meters from a signalized intersect</string>
+
+    <string name="hquestion_15">Green light at an intersection means</string>
+
+    <string name="hquestion15_A">Stop and yield to pedestrians</string>
+    <string name="hquestion15_B">Pedestrians are allowed to cross the pedestrian lane</string>
+    <string name="hquestion15_C">Pedestrians are not allowed to cross the pedestrian lane</string>
+    <string name="hquestion15_D">Go and yield to pedestrians</string>
+    <string name="hanswer_15">Pedestrians are allowed to cross the pedestrian lane</string>
+
+    <string name="hquestion_16">Flashing yellow light means</string>
+
+    <string name="hquestion16_A">Proceed through the intersection with caution</string>
+    <string name="hquestion16_B">Do not proceed through the intersection with caution</string>
+    <string name="hquestion16_C">Slow down and yield the right of way to any vehicle in the intersection</string>
+    <string name="hquestion16_D">Continue to the next intersection to make the desired turn</string>
+    <string name="hanswer_16">Proceed through the intersection with caution</string>
+
+    <string name="hquestion_17">The minimum distance away from the vehicle you are following is</string>
+
+    <string name="hquestion17_A">1 car length</string>
+    <string name="hquestion17_B">2 car length</string>
+    <string name="hquestion17_C">3 car length</string>
+    <string name="hquestion17_D">4 car length</string>
+    <string name="hanswer_17">1 car length</string>
+
+    <string name="hquestion_18">When do you have a complete/full stop</string>
+
+    <string name="hquestion18_A">At a red traffic light</string>
+    <string name="hquestion18_B">At a yellow traffic light</string>
+    <string name="hquestion18_C">At a green traffic light</string>
+    <string name="hquestion18_D">None of the above</string>
+    <string name="hanswer_18">At a red traffic light</string>
+
+
+    <string name="hquestion_19">On a two-lane road, overtaking is only allowed only at the</string>
+
+    <string name="hquestion19_A">Next lane</string>
+    <string name="hquestion19_B">Right lane</string>
+    <string name="hquestion19_C">Left lane</string>
+    <string name="hquestion19_D">One lane only</string>
+    <string name="hanswer_19">Left lane</string>
+
+
+    <string name="hquestion_20">Parking is considered as a violation when a motor vehicle</string>
+
+    <string name="hquestion20_A">Park at the entrance and exit of hospital and fire station</string>
+    <string name="hquestion20_B">Park at the entrance and exit of school and police station</string>
+    <string name="hquestion20_C">Park at the entrance and exit of church and colosseum </string>
+    <string name="hquestion20_D">Park at the entrance and exit of park and mall </string>
+    <string name="hanswer_20">Park at the entrance and exit of hospital and fire station</string>
+
+
+    <string name="hquestion_21">Parking is prohibited</string>
+
+    <string name="hquestion21_A">Approach to intersection</string>
+    <string name="hquestion21_B">Within an intersection</string>
+    <string name="hquestion21_C">Slow down and yield the right of way to any vehicle in the intersection</string>
+    <string name="hquestion21_D">Continue to the next intersection to make the desired turn</string>
+    <string name="hanswer_21">Within an intersection</string>
+
+
+    <string name="hquestion_22">On a wet road, you must</string>
+
+    <string name="hquestion22_A">Ignore it</string>
+    <string name="hquestion22_B">You can speed high</string>
+    <string name="hquestion22_C">Slippery road</string>
+    <string name="hquestion22_D">Slow down</string>
+    <string name="hanswer_22">Slow down</string>
+
+
+    <string name="hquestion_23">When parking uphill without a curb, turn your wheels</string>
+
+    <string name="hquestion23_A">Towards the edge of the road</string>
+    <string name="hquestion23_B">Downwards the edge of the road</string>
+    <string name="hquestion23_C">Slowdown the edge of the road</string>
+    <string name="hquestion23_D">Turn your wheels to curb</string>
+    <string name="hanswer_23">Towards the edge of the road</string>
+
+
+    <string name="hquestion_24">When parking downhill, you must;</string>
+
+    <string name="hquestion24_A">Turn your wheels away from the curb</string>
+    <string name="hquestion24_B">Turn your wheels to curb</string>
+    <string name="hquestion24_C">Towards the edge of the road</string>
+    <string name="hquestion24_D">Downwards the edge of the road</string>
+    <string name="hanswer_24">Turn your wheels to curb</string>
+
+
+    <string name="hquestion_25">Whenever you are driving, especially when overtaking</string>
+
+    <string name="hquestion25_A">Slow down gradually and give him the signal to overtake you</string>
+    <string name="hquestion25_B">Overtake another vehicle from a tailgating position</string>
+    <string name="hquestion25_C">Turn your wheels away from the curb</string>
+    <string name="hquestion25_D">Never overtake another vehicle from a tailgating position</string>
+    <string name="hanswer_25">Never overtake another vehicle from a tailgating position</string>
+
+
+    <string name="hquestion_26">When driving on a highway, do not stare at the vehicle in front of you, instead you should</string>
+
+    <string name="hquestion26_A">Extend your scanning distance to about 15 seconds beyond the front of your vehicle</string>
+    <string name="hquestion26_B">Extend your scanning distance to about 5 seconds beyond the front of your vehicle</string>
+    <string name="hquestion26_C">Extend your scanning distance to about 12 seconds beyond the front of your vehicle</string>
+    <string name="hquestion26_D">Extend your scanning distance to about 30 seconds beyond the front of your vehicle</string>
+    <string name="hanswer_26">Extend your scanning distance to about 12 seconds beyond the front of your vehicle</string>
+
+
+    <string name="hquestion_27">When driving on mountain roads during daytime, you should</string>
+
+    <string name="hquestion27_A">Ignore it</string>
+    <string name="hquestion27_B">Blow your horn every 1 minute</string>
+    <string name="hquestion27_C">blow your horn when you think it\'s necessary.</string>
+    <string name="hquestion27_D">Blow your horn when approaching a blind curve</string>
+    <string name="hanswer_27">Blow your horn when approaching a blind curve</string>
+
+
+    <string name="hquestion_28">It refers to an act penalizing person under the influence of alcohol, dangerous drugs, and similar substances, and for other purpose.</string>
+
+    <string name="hquestion28_A">R.A. No. 70586</string>
+    <string name="hquestion28_B">R.A. No. 10586</string>
+    <string name="hquestion28_C">R.A. No. 60586</string>
+    <string name="hquestion28_D">R.A. No. 40586</string>
+    <string name="hanswer_28">R.A. No. 10586</string>
+
+
+    <string name="hquestion_29">The headlights should be used often as needed to</string>
+
+    <string name="hquestion29_A">Always turn your headlights on</string>
+    <string name="hquestion29_B">make your intentions known to drivers around you</string>
+    <string name="hquestion29_C">Make your intentions known to drivers around you</string>
+    <string name="hquestion29_D">to signal to other drivers you have the right of way</string>
+    <string name="hanswer_29">Make your intentions known to drivers around you</string>
+
+    <string name="hquestion_30">When driving downhill on a mountain road always</string>
+
+    <string name="hquestion30_A">Turn Off the engine</string>
+    <string name="hquestion30_B">Shift to low gear so the engine braking action can help you control your speed</string>
+    <string name="hquestion30_C">Be always prepared to hit the brakes</string>
+    <string name="hquestion30_D">Blow your horn every 1 minute</string>
+    <string name="hanswer_30">Shift to low gear so the engine braking action can help you control your speed</string>
+
+
+    <string name="hquestion_31">When negotiating a curve on a highway at a relatively high speed you should</string>
+
+    <string name="hquestion31_A">maintain speed to avoid accidents from drivers behind you</string>
+    <string name="hquestion31_B">You can speed high</string>
+    <string name="hquestion31_C">Decrease your speed further as you enter the curve</string>
+    <string name="hquestion31_D">increase your speed so you won\'t violate minimum speed limits</string>
+    <string name="hanswer_31">Decrease your speed further as you enter the curve</string>
+
+
+    <string name="hquestion_32">One that affects your visibility?</string>
+
+    <string name="hquestion32_A">Defective or dirty headlights</string>
+    <string name="hquestion32_B">Rainy road</string>
+    <string name="hquestion32_C">Foggy road</string>
+    <string name="hquestion32_D">Poor road lighting</string>
+    <string name="hanswer_32">Defective or dirty headlights</string>
+
+    <string name="hquestion_33">At night, you should never drive at a speed which would prevent you from stopping within the distance:</string>
+
+    <string name="hquestion33_A">of 270 feet</string>
+    <string name="hquestion33_B">of 170 feet</string>
+    <string name="hquestion33_C">you can\'t see in your headlights</string>
+    <string name="hquestion33_D">of a 4 car-lengths</string>
+    <string name="hanswer_33">you can\'t see in your headlights</string>
+
+    <string name="hquestion_34">When driving at night, you should</string>
+
+    <string name="hquestion34_A">Always turn your headlights on</string>
+    <string name="hquestion34_B">You can use parking light</string>
+    <string name="hquestion34_C">High the light</string>
+    <string name="hquestion34_D">Beam the light</string>
+    <string name="hanswer_34">Always turn your headlights on</string>
+
+    <string name="hquestion_35">A single solid yellow or white line means</string>
+
+    <string name="hquestion35_A">Passing/overtaking is allowed to</string>
+    <string name="hquestion35_B">Passing/overtaking is not allowed</string>
+    <string name="hquestion35_C">Slow down gradually and give him the signal to overtake you</string>
+    <string name="hquestion35_D">None ov the above</string>
+    <string name="hanswer_35">Passing/overtaking is not allowed</string>
+
+    <string name="hquestion_36">Passing/overtaking is allowed</string>
+
+    <string name="hquestion36_A">on highway with solid yellow lines</string>
+    <string name="hquestion36_B">on highway with at least 60kph speed limit</string>
+    <string name="hquestion36_C">on highway with two or more lanes</string>
+    <string name="hquestion36_D">Crossbuck</string>
+    <string name="hanswer_36">on highway with two or more lanes</string>
+
+    <string name="hquestion_37">A driver on a highway shall yield the right of way to</string>
+
+    <string name="hquestion37_A">driver on a highway shall yield the right of way to:</string>
+    <string name="hquestion37_B">Pedestrians crossing within a crosswalk</string>
+    <string name="hquestion37_C">police, fire department vehicles, and ambulances when such vehicles are on official business</string>
+    <string name="hquestion37_D">politicians when such vehicles are on official business</string>
+    <string name="hanswer_37">Pedestrians crossing within a crosswalk</string>
+
+    <string name="hquestion_38">This traffic signs warns you that school children may be present in the vicinity</string>
+
+    <string name="hquestion38_A">Square it</string>
+    <string name="hquestion38_B">Triangle</string>
+    <string name="hquestion38_C">Circle</string>
+    <string name="hquestion38_D">Pentagon</string>
+    <string name="hanswer_38">Pentagon</string>
+
+    <string name="hquestion_39">A flashing red light means</string>
+
+    <string name="hquestion39_A">Slow down, then go on safely</string>
+    <string name="hquestion39_B">Stop, then proceed if it is safe</string>
+    <string name="hquestion39_C">Wait for the yellow light</string>
+    <string name="hquestion39_D">You can go</string>
+    <string name="hanswer_39">Stop, then proceed if it is safe</string>
+
+    <string name="hquestion_40">The signal warns of a hazard ahead</string>
+
+    <string name="hquestion40_A">Circlet</string>
+    <string name="hquestion40_B">Triangle</string>
+    <string name="hquestion40_C">Diamond</string>
+    <string name="hquestion40_D">Square</string>
+    <string name="hanswer_40">Diamond</string>
+
+
+    <string name="hquestion_41">This traffic sign states directions and distances</string>
+
+    <string name="hquestion41_A">Cautions or warning signs</string>
+    <string name="hquestion41_B">Directional sign</string>
+    <string name="hquestion41_C">Regulatory sign</string>
+    <string name="hquestion41_D">Informative signs</string>
+    <string name="hanswer_41">Informative signs</string>
+
+
+    <string name="hquestion_42">Children must be held in approved child restraint if they are</string>
+
+    <string name="hquestion42_A">6 years old and below</string>
+    <string name="hquestion42_B">7 years old and below</string>
+    <string name="hquestion42_C">8 years old and below</string>
+    <string name="hquestion42_D">10 years old and below</string>
+    <string name="hanswer_42">6 years old and below</string>
+
+
+    <string name="hquestion_43">Seat belts must be worn by children aged</string>
+
+    <string name="hquestion43_A">5 years old and above</string>
+    <string name="hquestion43_B">6 years old and above</string>
+    <string name="hquestion43_C">7 years old and above</string>
+    <string name="hquestion43_D">8 years old and above</string>
+    <string name="hanswer_43">7 years old and above</string>
+
+
+    <string name="hquestion_44">The Temporary Operators Permit (TOP) authorizes the apprehended driver to operate motor vehicle for a period not exceeding</string>
+
+    <string name="hquestion44_A">12 hours</string>
+    <string name="hquestion44_B">72 hours</string>
+    <string name="hquestion44_C">24 hours</string>
+    <string name="hquestion44_D">48 hours</string>
+    <string name="hanswer_44">72 hours</string>
+
+
+    <string name="hquestion_45">A red flag or red light must be attached to any load that extends over</string>
+
+    <string name="hquestion45_A">One meter from the back of the car</string>
+    <string name="hquestion45_B">Two meters from the back of the car</string>
+    <string name="hquestion45_C">Three meters from the back of the car</string>
+    <string name="hquestion45_D">Four meters from the back of the car</string>
+    <string name="hanswer_45">One meter from the back of the car</string>
+
+
+    <string name="hquestion_46">In adverse driving conditions, the 2-second rule should be increased to</string>
+
+    <string name="hquestion46_A">2-second rule</string>
+    <string name="hquestion46_B">3-second rule</string>
+    <string name="hquestion46_C">4-second rule</string>
+    <string name="hquestion46_D">5-second rule</string>
+    <string name="hanswer_46">4-second rule</string>
+
+
+    <string name="hquestion_47">When a vehicle starts to skid, what should the driver do</string>
+
+    <string name="hquestion47_A">Immediately step on the brakes</string>
+    <string name="hquestion47_B">Hold firmly on to the wheel while slowing down the vehicle</string>
+    <string name="hquestion47_C">Turn the wheels tp the opposite the direction of the skid</string>
+    <string name="hquestion47_D">Continuously as they drive</string>
+    <string name="hanswer_47">Hold firmly on to the wheel while slowing down the vehicle</string>
+
+
+    <string name="hquestion_48">To obtain one’s driver’s license, one must be at least</string>
+
+    <string name="hquestion48_A">16 years old</string>
+    <string name="hquestion48_B">17 years old</string>
+    <string name="hquestion48_C">18 years old</string>
+    <string name="hquestion48_D">19 years old</string>
+    <string name="hanswer_48">17 years old</string>
+
+
+    <string name="hquestion_49">If a driver is driving too fast into a curve, he</string>
+
+    <string name="hquestion49_A">Should slam the brakes when the needed</string>
+    <string name="hquestion49_B">Should not pull the handbrake</string>
+    <string name="hquestion49_C">Should not slam the brakes</string>
+    <string name="hquestion49_D">Should not slam the Accelerator</string>
+    <string name="hanswer_49">should not slam the brakes</string>
+
+
+    <string name="hquestion_50">Never park or stop at the side of the road with a fire hydrant</string>
+
+    <string name="hquestion50_A">5 meter</string>
+    <string name="hquestion50_B">10 meter</string>
+    <string name="hquestion50_C">15 meter road</string>
+    <string name="hquestion50_D">20 meter</string>
+    <string name="hanswer_50">5 meter</string>
+
+
+    <string name="hquestion_51">A driver must park within the curb by putting the car in low gear and setting the parking brake for at least</string>
+
+    <string name="hquestion51_A">15 centimeter</string>
+    <string name="hquestion51_B">20 centimeter</string>
+    <string name="hquestion51_C">30 centimeter</string>
+    <string name="hquestion51_D">40 centimeter</string>
+    <string name="hanswer_51">30 centimeter</string>
+
+
+    <string name="hquestion_52">In bad conditions, the 2-second rule should be increased to</string>
+
+    <string name="hquestion52_A">3 seconds</string>
+    <string name="hquestion52_B">4 seconds</string>
+    <string name="hquestion52_C">5 seconds</string>
+    <string name="hquestion52_D">6 seconds</string>
+    <string name="hanswer_52">4 seconds</string>
+
+
+    <string name="hquestion_53">Close should another car before dim your headlights?</string>
+
+    <string name="hquestion53_A">100 meter</string>
+    <string name="hquestion53_B">150 meter</string>
+    <string name="hquestion53_C">200 meter</string>
+    <string name="hquestion53_D">250 meter</string>
+    <string name="hanswer_53">150 meter</string>
+
+
+    <string name="hquestion_54">What should you do before turning left or right?</string>
+
+    <string name="hquestion54_A">Abruptly turn left and sound your horn</string>
+    <string name="hquestion54_B">Don\'t bother giving a signal</string>
+    <string name="hquestion54_C">Give a signal while no less than 30 meters before turning</string>
+    <string name="hquestion54_D">Give a signal while no less than 60 meters before turning</string>
+    <string name="hanswer_54">Give a signal while no less than 30 meters before turning</string>
+
+    <string name="hquestion_55">If a driver passes a blind person, he</string>
+
+    <string name="hquestion55_A">Should not flash his head lights</string>
+    <string name="hquestion55_B">Should not sound his horn</string>
+    <string name="hquestion55_C">Should reduce his speed</string>
+    <string name="hquestion55_D">Should not be crossed anytime</string>
+    <string name="hanswer_55">should not sound his horn</string>
+
+    <string name="hquestion_56">A steady red cross means</string>
+
+    <string name="hquestion56_A">You cannot drive on this lane</string>
+    <string name="hquestion56_B">Proceed with caution</string>
+    <string name="hquestion56_C">You can drive on this lane with caution</string>
+    <string name="hquestion56_D">No entry for all types of vehicles</string>
+    <string name="hanswer_56">You cannot drive on this lane</string>
+
+    <string name="hquestion_57">Before changing lanes you should make a signal, look at the rear-view and side-view mirrors and</string>
+
+    <string name="hquestion57_A">sound your horn</string>
+    <string name="hquestion57_B">Have a quick look over your shoulders to watch out for oncoming vehicles</string>
+    <string name="hquestion57_C">turn on the headlight</string>
+    <string name="hquestion57_D">Should not sound his horn</string>
+    <string name="hanswer_57">Have a quick look over your shoulders to watch out for oncoming vehicles</string>
+
+    <string name="hquestion_58">To execute a safe turn, a motorcycle rider should always</string>
+
+    <string name="hquestion58_A">lean the motorcycle in the direction of the curve or turn</string>
+    <string name="hquestion58_B">be quick and alert in executing the turn</string>
+    <string name="hquestion58_C">lean the motorcycle in the other direction of the curve or turn</string>
+    <string name="hquestion58_D">Before operating the motor vehicle</string>
+    <string name="hanswer_58">lean the motorcycle in the direction of the curve or turn</string>
+
+    <string name="hquestion_59">When a heavy fog occurs, you should</string>
+
+    <string name="hquestion59_A">Turn on your headlights and switch on the windshield wipers</string>
+    <string name="hquestion59_B">Drive slowly and turn on the headlights</string>
+    <string name="hquestion59_C">Park at a rest area or vehicle stop until the fog has lifted</string>
+    <string name="hquestion59_D">Slow down and proceed with caution</string>
+    <string name="hanswer_59">Park at a rest area or vehicle stop until the fog has lifted</string>
+
+    <string name="hquestion_60">Before making a turn, the driver should use the turn signal at what distance</string>
+
+    <string name="hquestion60_A">10 meters</string>
+    <string name="hquestion60_B">20 meters</string>
+    <string name="hquestion60_C">30 meters</string>
+    <string name="hquestion60_D">40 meters</string>
+    <string name="hanswer_60">30 meters</string>
+
+<!-- prosignexam-->
+    <string name="queston_numbersign">1/40 Question</string>
+    <string name="Scoresign">Score 0/40</string>
+
+
+
+
+
+    <string name="question1d_A">Intersection </string>
+    <string name="question1d_B">Round about ahead</string>
+    <string name="question1d_C">Speed </string>
+    <string name="question1d_D">Direction</string>
+    <string name="answer_1d">Round about ahead </string>
+
+
+    <string name="question2d_A">You must slow down and ready to stop</string>
+    <string name="question2d_B">Don\'t bother giving a signal</string>
+    <string name="question2d_C">Supplementary Signs </string>
+    <string name="question2d_D">Movement Instruction</string>
+    <string name="answer_2d">You must slow down and ready to stop</string>
+
+
+
+    <string name="question3d_A">Priority Signs</string>
+    <string name="question3d_B">Direction Signs </string>
+    <string name="question3d_C">Stop Sign</string>
+    <string name="question3d_D">Non of the above</string>
+    <string name="answer_3d">Stop Sign</string>
+
+
+
+
+    <string name="question4d_A">Hospital sign</string>
+    <string name="question4d_B">Police station Sign</string>
+    <string name="question4d_C">School Sign</string>
+    <string name="question4d_D">Mall sign</string>
+    <string name="answer_4d">Hospital sign</string>
+
+
+
+
+    <string name="question5d_A">Horizontal Signs</string>
+    <string name="question5d_B">Supplementary Signs</string>
+    <string name="question5d_C">Regulatory Sign</string>
+    <string name="question5d_D">Road Obstacle Signs</string>
+    <string name="answer_5d">Regulatory Sign</string>
+
+
+
+
+    <string name="question6d_A">No Entry Animal</string>
+    <string name="question6d_B">No Entry Pwd </string>
+    <string name="question6d_C">No Parking</string>
+    <string name="question6d_D">No littering</string>
+    <string name="answer_6d">No Entry Animal</string>
+
+
+
+
+    <string name="question7d_A">Slipery road</string>
+    <string name="question7d_B">under construction</string>
+    <string name="question7d_C">Landslide prone area</string>
+    <string name="question7d_D">Downhill Sign</string>
+    <string name="answer_7d">Slipery road</string>
+
+
+
+
+    <string name="question8d_A">Regulatory signs</string>
+    <string name="question8d_B">Caution or warning sign </string>
+    <string name="question8d_C">Informative signs</string>
+    <string name="question8d_D">Give way signal</string>
+    <string name="answer_8d">Give way signal</string>
+
+
+
+
+    <string name="question9d_A">No Pedestrian Crossing</string>
+    <string name="question9d_B">No Parking</string>
+    <string name="question9d_C">No Entry Pwd</string>
+    <string name="question9d_D">No Entry Animal</string>
+    <string name="answer_9d">No Pedestrian Crossing</string>
+
+
+    <string name="question10d_A">No Left turn</string>
+    <string name="question10d_B">No Right Turn</string>
+    <string name="question10d_C">No U turn</string>
+    <string name="question10d_D">Round about ahead </string>
+    <string name="answer_10d">>No Right turn</string>
+
+
+
+    <string name="question11d_A">No U turn</string>
+    <string name="question11d_B">No Left turn</string>
+    <string name="question11d_C">No Right Turn</string>
+    <string name="question11d_D">Round about ahead</string>
+    <string name="answer_11d">No U turn</string>
+
+    <string name="question12d_A">No Pedestrian Crossing</string>
+    <string name="question12d_B">No overtaking zone</string>
+    <string name="question12d_C">No U turn</string>
+    <string name="question12d_D">No Entry Animal</string>
+    <string name="answer_12d">No overtaking zone</string>
+
+
+    <string name="question13d_A">MINIMUM SPEED RESTRICTION </string>
+    <string name="question13d_B">END OF SPEED RESTRICTION </string>
+    <string name="question13d_C">maximum speed restricion</string>
+    <string name="question13d_D">none of the above</string>
+    <string name="answer_13d">maximum speed restricion</string>
+
+    <string name="question14d_A">No U turn</string>
+    <string name="question14d_B">No Parking</string>
+    <string name="question14d_C">No Entry Animal</string>
+    <string name="question14d_D">No Right Turn</string>
+    <string name="answer_14d">No Parking</string>
+
+
+
+    <string name="question15d_A">No entry for vehicles with more 2 m of with</string>
+    <string name="question15d_B">No entry for vehicles with more 4 m of with</string>
+    <string name="question15d_C">No entry for vehicles with more 6 m of with</string>
+    <string name="question15d_D">No entry for vehicles with more 8 m of with</string>
+    <string name="answer_15d">No entry for vehicles with more 2 m of with</string>
+
+    <string name="question16d_A">No entry for vehicles with gross vehicle mass of more than 2 tons</string>
+    <string name="question16d_B">No entry for vehicles with gross vehicle mass of more than 5 tons</string>
+    <string name="question16d_C">No entry for vehicles with gross vehicle mass of more than 8 tons</string>
+    <string name="question16d_D">No entry for vehicles with gross vehicle mass of more than 10 tons</string>
+    <string name="answer_16d">No entry for vehicles with gross vehicle mass of more than 5 tons</string>
+
+
+
+    <string name="question17d_A">CHILDREN CROSSING </string>
+    <string name="question17d_B">BIKE LANE AHEAD</string>
+    <string name="question17d_C">Pedestrian crossing</string>
+    <string name="question17d_D">BE AWARE OF PERSONS WITH DISABILITY CROSSING </string>
+    <string name="answer_17d">Pedestrian crossing</string>
+
+
+    <string name="question18d_A">BE AWARE OF PERSONS WITH DISABILITY CROSSING </string>
+    <string name="question18d_B">CHILDREN CROSSING</string>
+    <string name="question18d_C">Pedestrian crossing</string>
+    <string name="question18d_D">BIKE LANE AHEAD</string>
+    <string name="answer_18d">BIKE LANE AHEAD</string>
+
+
+    <string name="question19d_A">BE AWARE OF PERSONS WITH DISABILITY CROSSING</string>
+    <string name="question19d_B">CHILDREN CROSSING</string>
+    <string name="question19d_C">BIKE LANE AHEAD</string>
+    <string name="question19d_D">Pedestrian crossing</string>
+    <string name="answer_19d">BE AWARE OF PERSONS WITH DISABILITY CROSSING</string>
+
+
+
+
+    <string name="question20d_A">Sharp Turn</string>
+    <string name="question20d_B">REVERSE TURN</string>
+    <string name="question20d_C">REVERSE CURVE </string>
+    <string name="question20d_D">HAIRPIN BEND </string>
+    <string name="answer_20d">Sharp Turn</string>
+
+
+    <string name="question21d_A">REVERSE TURN</string>
+    <string name="question21d_B">Sharp Turn</string>
+    <string name="question21d_C">REVERSE CURVE</string>
+    <string name="question21d_D">HAIRPIN BEND</string>
+    <string name="answer_21d">REVERSE TURN</string>
+
+
+    <string name="question22d_A">REVERSE TURN</string>
+    <string name="question22d_B">HAIRPIN BEND</string>
+    <string name="question22d_C">WINDING ROAD</string>
+    <string name="question22d_D">Sharp Turn</string>
+    <string name="answer_22d">WINDING ROAD</string>
+
+
+
+    <string name="question23d_A">INTERSECTION AHEAD </string>
+    <string name="question23d_B">ROUNDABOUT AHEAD</string>
+    <string name="question23d_C">T-JUNCTION </string>
+    <string name="question23d_D">SIDE ROAD JUNCTION</string>
+    <string name="answer_23d">INTERSECTION AHEAD</string>
+
+
+    <string name="question24d_A">Parking and stopping signs</string>
+    <string name="question24d_B">NO WAITING</string>
+    <string name="question24d_C">NO STOPPING ANYTIME </string>
+    <string name="question24d_D">Pedestrian crossing</string>
+    <string name="answer_24d">Parking and stopping signs</string>
+
+
+
+
+    <string name="question25d_A">Rotunda</string>
+    <string name="question25d_B">INTERSECTION AHEAD</string>
+    <string name="question25d_C">SIDE ROAD JUNCTION</string>
+    <string name="question25d_D">APPROACH TO INTERSECTION MERGING TRAFFIC</string>
+    <string name="answer_25d">Rotunda</string>
+
+
+
+
+    <string name="question26d_A">T-JUNCTION</string>
+    <string name="question26d_B">Y-JUNCTION</string>
+    <string name="question26d_C">SIDE ROAD JUNCTION</string>
+    <string name="question26d_D">APPROACH TO INTERSECTION </string>
+    <string name="answer_26d">Y-JUNCTION</string>
+
+
+    <string name="question27d_A">T-JUNCTION</string>
+    <string name="question27d_B">Y-JUNCTION</string>
+    <string name="question27d_C">APPROACH TO INTERSECTION </string>
+    <string name="question27d_D">SIDE ROAD JUNCTION </string>
+    <string name="answer_27d">SIDE ROAD JUNCTION</string>
+
+
+    <string name="question28d_A">STOP SIGN AHEAD</string>
+    <string name="question28d_B">GIVE WAY SIGN AHEAD</string>
+    <string name="question28d_C">NARROW BRIDGE AHEAD  </string>
+    <string name="question28d_D">TRAFFIC LIGHTS AHEAD </string>
+    <string name="answer_28d">TRAFFIC LIGHTS AHEAD</string>
+
+
+    <string name="question29d_A">TRAFFIC LIGHTS AHEAD</string>
+    <string name="question29d_B">STOP SIGN AHEAD</string>
+    <string name="question29d_C">NARROW BRIDGE AHEAD </string>
+    <string name="question29d_D">TRAFFIC LIGHTS AHEAD</string>
+    <string name="answer_29d">STOP SIGN AHEAD</string>
+
+
+
+    <string name="question30d_A">GIVE WAY SIGN AHEAD</string>
+    <string name="question30d_B">STOP SIGN AHEAD</string>
+    <string name="question30d_C">TRAFFIC LIGHTS AHEAD</string>
+    <string name="question30d_D">2-WAY ROAD AHEAD</string>
+    <string name="answer_30d">GIVE WAY SIGN AHEAD</string>
+
+
+    <string name="question31d_A">END OF 2-WAY ROAD AHEAD</string>
+    <string name="question31d_B">2-WAY ROAD AHEAD</string>
+    <string name="question31d_C">ROAD NARROWS AHEAD</string>
+    <string name="question31d_D">NARROW BRIDGE AHEAD</string>
+    <string name="answer_31d">NARROW BRIDGE AHEAD</string>
+
+
+
+
+    <string name="question32d_A">2-WAY ROAD AHEAD</string>
+    <string name="question32d_B">NARROW BRIDGE AHEAD</string>
+    <string name="question32d_C">ROAD NARROWS AHEAD</string>
+    <string name="question32d_D">END OF 2-WAY ROAD AHEA</string>
+    <string name="answer_32d">ROAD NARROWS AHEAD</string>
+
+
+    <string name="question33d_A">OPENING BRIDGE AHEAD </string>
+    <string name="question33d_B">UNEVEN ROAD AHEAD </string>
+    <string name="question33d_C">HUMP AHEAD</string>
+    <string name="question33d_D">FLOOD-PRONE AREA</string>
+    <string name="answer_33d">OPENING BRIDGE AHEAD</string>
+
+
+    <string name="question34d_A">SPILL WAY SIGN</string>
+    <string name="question34d_B">HUMP AHEAD</string>
+    <string name="question34d_C">UPHILL SIGN</string>
+    <string name="question34d_D">DOWNHILL SIGN</string>
+    <string name="answer_34d">DOWNHILL SIGN</string>
+
+    <string name="question35d_A">UNEVEN ROAD AHEAD</string>
+    <string name="question35d_B">ANIMAL CROSSING AHEAD</string>
+    <string name="question35d_C">UPHILL SIGN</string>
+    <string name="question35d_D">SLIPPERY WHEN WET</string>
+    <string name="answer_35d">LANDSLIDE-PRONE AREA</string>
+
+
+    <string name="question36d_A">UPHILL SIGN</string>
+    <string name="question36d_B">SLIPPERY WHEN WET</string>
+    <string name="question36d_C">ANIMAL CROSSING AHEAD</string>
+    <string name="question36d_D">LANDSLIDE-PRONE AREA</string>
+    <string name="answer_36d">SLIPPERY WHEN WET</string>
+
+    <string name="question37d_A">ANIMAL CROSSING AHEAD</string>
+    <string name="question37d_B">SLIPPERY WHEN WET</string>
+    <string name="question37d_C">UPHILL SIGN</string>
+    <string name="question37d_D">LANDSLIDE-PRONE AREA</string>
+    <string name="answer_37d">ANIMAL CROSSING AHEAD</string>
+
+    <string name="question38d_A">SIDE ROAD JUNCTION</string>
+    <string name="question38d_B">APPROACH TO INTERSECTION MERGING TRAFFIC</string>
+    <string name="question38d_C">APPROACH TO INTERSECTION SIDE ROAD</string>
+    <string name="question38d_D">APPROACH TO INTERSECTION </string>
+    <string name="answer_38d">APPROACH TO INTERSECTION MERGING TRAFFIC</string>
+
+
+
+    <string name="question39d_A">LOW FLYING PLANE ZONE</string>
+    <string name="question39d_B">SPILL WAY SIGN </string>
+    <string name="question39d_C">LANDSLIDE-PRONE AREAt</string>
+    <string name="question39d_D">ANIMAL CROSSING AHEAD</string>
+    <string name="answer_39d">LOW FLYING PLANE ZONE</string>
+
+    <string name="question40d_A">APPROACH TO INTERSECTION SIDE ROAD </string>
+    <string name="question40d_B">T-JUNCTION</string>
+    <string name="question40d_C">Y-JUNCTION </string>
+    <string name="question40d_D">SIDE ROAD JUNCTION </string>
+    <string name="answer_40d">APPROACH TO INTERSECTION SIDE ROAD</string>
+
+
+
+</resources>

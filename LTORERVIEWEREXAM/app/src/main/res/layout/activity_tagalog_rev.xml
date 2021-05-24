@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="Traffic_page.TrafficSignsMain">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="?actionBarSize">
+            <ImageView
+                android:id="@+id/backimg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/back"
+                android:padding="15dp"
+                android:layout_centerVertical="true">
+            </ImageView>
+
+
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Categories"
+            android:textColor="@color/black"
+            android:fontFamily="@font/brandongrotesqueblack"
+            android:textSize="30sp"
+            android:padding="10dp"
+            android:textAllCaps="true">
+
+        </TextView>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="190dp">
+            <RelativeLayout
+                android:id="@+id/Reviews"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_margin="15dp"
+                android:background="@drawable/round_review">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/reviewer"
+                    android:textColor="@color/black"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/baloo"
+                    android:padding="25dp">
+                </TextView>
+
+                <Button
+                    android:id="@+id/Review"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Expand all"
+                    android:background="#0000"
+                    android:textColor="@color/black"
+                    android:padding="20dp"
+                    android:layout_alignParentBottom="true"/>
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/review"
+                    android:layout_alignParentRight="true"/>
+
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/Exams"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/round_exam">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/exam"
+                android:layout_marginLeft="20dp"/>
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/exam"
+                android:textColor="@color/black"
+                android:textSize="30sp"
+                android:fontFamily="@font/baloo"
+                android:layout_alignParentRight="true"
+                android:padding="25dp">
+            </TextView>
+
+            <Button
+                android:id="@+id/Exam"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Expand all"
+                android:background="#0000"
+                android:textColor="@color/black"
+                android:padding="20dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"/>
+
+        </RelativeLayout>
+        <RelativeLayout
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                ads:adSize="MEDIUM_RECTANGLE"
+                ads:adUnitId="ca-app-pub-4394473472808077/4676224293"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</ScrollView>

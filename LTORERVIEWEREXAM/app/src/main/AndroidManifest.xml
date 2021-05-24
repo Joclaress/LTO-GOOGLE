@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ltorerviewerexam">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+       <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/sdasd"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-4394473472808077~8976747170"/>
+
+
+
+        <activity android:name=".Copywrite_page"></activity>
+        <activity android:name=".Penalties" />
+        <activity android:name=".Registrationfees" />
+        <activity android:name="professional_heavyvehicle.professional_heavy_exam" />
+        <activity android:name="professional_heavyvehicle.professional_heavy_review" />
+        <activity android:name="professional_heavyvehicle.Main_professional_Heavy" />
+        <activity android:name="Professional_page.proexam" />
+        <activity android:name="Professional_page.proreview" />
+        <activity android:name="Nonpro_page.nonproexam" />
+        <activity android:name="Nonpro_page.nonproreviewer" />
+        <activity android:name="Tagalog_page.Examtagalog" />
+        <activity android:name="Tagalog_page.Reviewertagalog" />
+        <activity android:name="Traffic_page.Examtraffic" />
+        <activity android:name="Traffic_page.reviewertraffic" />
+        <activity android:name="Professional_page.Professional" />
+        <activity android:name="Nonpro_page.Nonpro" />
+        <activity android:name="Tagalog_page.MainTagalogRev" />
+        <activity android:name="Traffic_page.TrafficSignsMain" />
+        <activity android:name=".Splashscreen">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
